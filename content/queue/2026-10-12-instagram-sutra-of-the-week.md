@@ -2,20 +2,22 @@
 platform: instagram
 status: draft
 scheduled_at: 2026-10-12 19:30
-pillar: "Culture / wisdom"
-audience: "Primary: founders and owners of startups and SMBs"
-campaign: ""
+pillar: Culture / wisdom
+audience: 'Primary: founders and owners of startups and SMBs'
+campaign: ''
 format: single-image
-image: ""
+image: content/media/2026-10-12-instagram-sutra-of-the-week-1.png
 images: []
-image_url: ""
-alt_text: "Card with the word sutra and its meaning: a thread."
-first_comment: ""
+image_url: ''
+alt_text: सूत्र
+first_comment: ''
 visual_brief: |
-  Single image, 1080x1350. Large "सूत्र" with "sutra: a thread" beneath. Below, one line:
-  "Good teams are held together by small, clear threads."
-  Warm, minimal, brand colours. Logo bottom corner.
-review: "OK. High 0, Medium 0. Sanskrit word glossed in the caption; thread metaphor used once; no claims. Needs an image before approval."
+  Single image rendered automatically from `slides` by scripts/make_visuals.py.
+review: OK. High 0, Medium 0. Sanskrit word glossed in the caption; thread metaphor used once; no claims. Needs an image before approval.
+slides:
+- kicker: Sutra of the week
+  title: सूत्र
+  body: '*sutra*: a thread. Good teams are held together by small, clear threads.'
 ---
 Sutra (सूत्र) means thread.
 

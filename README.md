@@ -34,6 +34,16 @@ Open **http://localhost:8765** in your browser and bookmark it. It starts by its
 - what needs you, today's market changes, the latest daily summary, the campaign calendar and every report
 It runs only on this PC; nothing is put on the internet. Start it by hand with `python scripts/dashboard.py`.
 
+## Post images
+Instagram images are made automatically. Every Instagram draft carries its on-image text as `slides`, and
+`python scripts/make_visuals.py` turns them into branded 1080x1350 slides in `content/media/`. The daily routine
+runs it too. The design uses the logo and fonts in `content/brand/`.
+- Carousels are the default: a hook slide, one idea per slide, and a "Book a free consultation" slide at the end.
+- `format: single-image` gives a single card.
+- To use your own design, drop PNG/JPG files in `content/media/` and point `image`/`images` at them.
+- To re-render after editing slides, run `python scripts/make_visuals.py --file <name>.md --force`.
+- One-time setup on a new PC: `python -m playwright install --only-shell chromium`.
+
 ## Privacy
 - Skills and assistant settings live only on this PC and are kept out of git. Nothing is installed on the shared account.
 - Local assistant sessions are stored on this PC, not in the shared account's chat history.

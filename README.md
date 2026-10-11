@@ -27,6 +27,13 @@ competitors + your site --(Python scripts, free)--> data/ --(assistant skills)--
 The rules and facts every skill uses live in **context/**: `brand.md`, `competitors.yaml`, `channels.md` and `aeo-prompts.md`.
 Fix anything wrong there first.
 
+## Dashboard
+Open **http://localhost:8765** in your browser and bookmark it. It starts by itself when you log in to Windows and shows:
+- website sessions (with and without the Singapore bot traffic), leads, Google clicks, AI-search citations and SEO issues
+- every queued post: open it, read the full text, then **Approve** (it publishes at the scheduled time) or move it back to draft
+- what needs you, today's market changes, the latest daily summary, the campaign calendar and every report
+It runs only on this PC; nothing is put on the internet. Start it by hand with `python scripts/dashboard.py`.
+
 ## Privacy
 - Skills and assistant settings live only on this PC and are kept out of git. Nothing is installed on the shared account.
 - Local assistant sessions are stored on this PC, not in the shared account's chat history.
@@ -95,7 +102,7 @@ Fix anything wrong there first.
 
 ## Daily flow
 1. Every morning (10:00 PC time), competitors are snapshotted. The assistant then updates intel, drafts posts for empty slots and writes `reports/daily/<date>.md`.
-2. You open the assistant and run `/social-schedule`. Review the drafts, add images, and say "approve ...".
+2. You open the dashboard (http://localhost:8765), read the drafts, add images where needed and click **Approve**.
 3. The publisher posts approved items at their `scheduled_at` time and moves them to `content/posted/`.
 4. Every Monday you get a weekly report, and on the 1st an SEO audit plus a monthly report.
 

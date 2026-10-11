@@ -144,6 +144,12 @@ def analyse_page(url, r, host):
         issues.append(("medium", f"{len(h1s)} H1 tags"))
     if not page["canonical"]:
         issues.append(("medium", "No canonical tag"))
+    else:
+        canon, here = urlparse(page["canonical"]), urlparse(url)
+        if canon.path.rstrip("/") != here.path.rstrip("/"):
+            issues.append(("critical", f"Canonical points to another page: {page['canonical']}"))
+        elif canon.netloc != here.netloc:
+            issues.append(("medium", f"Canonical uses another host: {canon.netloc}"))
     if page["meta_robots"] and "noindex" in page["meta_robots"].lower():
         issues.append(("critical", "Page is noindex"))
     if no_alt:

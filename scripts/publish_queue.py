@@ -53,17 +53,23 @@ def load_queue():
     return items
 
 
-def due(meta):
+def scheduled_time(meta):
+    """scheduled_at as a naive IST datetime, or None."""
     when = meta.get("scheduled_at")
     if not when:
-        return False
+        return None
     if isinstance(when, str):
         when = dt.datetime.fromisoformat(when.strip())
     elif isinstance(when, dt.date) and not isinstance(when, dt.datetime):
         when = dt.datetime.combine(when, dt.time(9, 0))
     if when.tzinfo:
         when = when.astimezone(IST).replace(tzinfo=None)
-    return when <= now_ist()
+    return when
+
+
+def due(meta):
+    when = scheduled_time(meta)
+    return bool(when) and when <= now_ist()
 
 
 def publish(meta, body):

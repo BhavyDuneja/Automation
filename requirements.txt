@@ -5,3 +5,5 @@ PyYAML>=6.0
 Pillow>=10.0
 # Search Console + GA4 (scripts/google_data.py)
 google-auth>=2.29
+# Dashboard: renders reports
+markdown>=3.5

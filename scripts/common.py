@@ -127,8 +127,16 @@ def parse_frontmatter(text):
     return yaml.safe_load(m.group(1)) or {}, m.group(2)
 
 
+class _ReadableDumper(yaml.SafeDumper):
+    """Writes multi-line strings (visual briefs, notes) as readable | blocks instead of escaped one-liners."""
+
+
+_ReadableDumper.add_representer(
+    str, lambda dumper, value: dumper.represent_scalar("tag:yaml.org,2002:str", value, style="|" if "\n" in value else None))
+
+
 def dump_frontmatter(meta, body):
-    fm = yaml.safe_dump(meta, sort_keys=False, allow_unicode=True).strip()
+    fm = yaml.dump(meta, Dumper=_ReadableDumper, sort_keys=False, allow_unicode=True, width=1000).strip()
     return f"---\n{fm}\n---\n{body}"
 
 

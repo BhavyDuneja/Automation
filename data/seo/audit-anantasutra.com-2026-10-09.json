@@ -1,0 +1,1909 @@
+{
+  "site": "https://anantasutra.com",
+  "date": "2026-10-09",
+  "site_checks": {
+    "robots_txt": true,
+    "sitemaps_declared": [
+      "https://anantasutra.com/sitemap.xml"
+    ],
+    "llms_txt": true,
+    "http_redirects_to_https": true,
+    "ai_crawler_access": {
+      "GPTBot": "allowed except /admin/, /api/ (via GPTBot)",
+      "OAI-SearchBot": "allowed except /admin/, /api/ (via *)",
+      "ChatGPT-User": "allowed except /admin/, /api/ (via *)",
+      "ClaudeBot": "allowed except /admin/, /api/ (via ClaudeBot)",
+      "Claude-SearchBot": "allowed except /admin/, /api/ (via *)",
+      "PerplexityBot": "allowed except /admin/, /api/ (via PerplexityBot)",
+      "Google-Extended": "allowed except /admin/, /api/ (via Google-Extended)",
+      "Applebot-Extended": "allowed except /admin/, /api/ (via *)",
+      "CCBot": "allowed except /admin/, /api/ (via *)",
+      "Bytespider": "allowed except /admin/, /api/ (via *)"
+    },
+    "sitemap_url_count": 174,
+    "broken_internal_links": [],
+    "duplicate_titles": [
+      "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra"
+    ],
+    "duplicate_descriptions": [
+      "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, webs"
+    ],
+    "non_200_pages": []
+  },
+  "pages": [
+    {
+      "url": "https://www.anantasutra.com/",
+      "status": 200,
+      "load_ms": 112,
+      "title": "AnantaSutra — Dedicated Experts, Embedded in Your Team | Pay Just the Salary",
+      "title_len": 76,
+      "meta_description": "AnantaSutra embeds vetted domain experts — engineers, marketers, designers and more — inside your team. You pay just the expert's salary plus a small transparent fee. No 30-50% agency markup, live in 7 days, 48-hour replacement guarantee.",
+      "desc_len": 238,
+      "h1": [
+        "Infinite Wisdom Applied"
+      ],
+      "h2_count": 4,
+      "h2": [
+        "The Endless Thread of Knowledge",
+        "Any expert you need, working for you.",
+        "Numbers That Speak",
+        "Let's Weave Your Thread"
+      ],
+      "word_count": 417,
+      "canonical": "https://anantasutra.com/",
+      "meta_robots": "index, follow",
+      "images": 3,
+      "images_missing_alt": 1,
+      "missing_alt_samples": [
+        "/images/bg%26site/geometrymandla.png"
+      ],
+      "schema_types": [
+        "Organization",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 76 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 238 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "1 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/about",
+      "status": 200,
+      "load_ms": 370,
+      "title": "About Us — The Story of Infinite Wisdom | AnantaSutra",
+      "title_len": 53,
+      "meta_description": "AnantaSutra (अनन्तसूत्र) is an infinite thread weaving together technology, creativity, wisdom, and human potential into a tapestry of purposeful ventures.",
+      "desc_len": 155,
+      "h1": [
+        "The Story of Infinite Wisdom"
+      ],
+      "h2_count": 4,
+      "h2": [
+        "Our Philosophy",
+        "Threads Woven",
+        "Meet the Co-founder",
+        "Be Part of the Tapestry"
+      ],
+      "word_count": 354,
+      "canonical": "https://anantasutra.com/about",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 15,
+      "external_links": 6,
+      "issues": []
+    },
+    {
+      "url": "https://www.anantasutra.com/services",
+      "status": 200,
+      "load_ms": 415,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Any expert you need, working for you."
+      ],
+      "h2_count": 3,
+      "h2": [
+        "From need to embedded expert",
+        "Pick any field. We've got the pro.",
+        "Flexible by design"
+      ],
+      "word_count": 533,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/ai-automation",
+      "status": 200,
+      "load_ms": 448,
+      "title": "AI Automation & Intelligence — Voice Agents from ₹6/min",
+      "title_len": 55,
+      "meta_description": "AI-powered voice calling agents at ₹6/min, recruiter AI at ₹2/lead, social media automation, Gmail automation, AI video generators, and marketing tools by AnantaSutra.",
+      "desc_len": 167,
+      "h1": [
+        "AI That Works While You Sleep"
+      ],
+      "h2_count": 2,
+      "h2": [
+        "Our AI Arsenal",
+        "Ready to Automate?"
+      ],
+      "word_count": 274,
+      "canonical": "https://anantasutra.com/services/ai-automation",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization",
+        "Service"
+      ],
+      "og_title": true,
+      "internal_links": 15,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Meta description length 167 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 274 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/marketing",
+      "status": 200,
+      "load_ms": 432,
+      "title": "Creative & Marketing Agency — Brands That Resonate",
+      "title_len": 50,
+      "meta_description": "Full-service marketing agency by AnantaSutra: professional shooting, content creation, social media management, brand strategy, performance marketing, and creative direction.",
+      "desc_len": 174,
+      "h1": [
+        "Brands That Resonate"
+      ],
+      "h2_count": 3,
+      "h2": [
+        "How We Work",
+        "Full-Service Marketing",
+        "Let's Build Your Brand"
+      ],
+      "word_count": 294,
+      "canonical": "https://anantasutra.com/services/marketing",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization",
+        "Service"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Meta description length 174 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 294 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/voice-agents",
+      "status": 200,
+      "load_ms": 397,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Calls Handled. At ₹6/min."
+      ],
+      "h2_count": 3,
+      "h2": [
+        "Built for Indian Businesses",
+        "Works Across Every Industry",
+        "Ready to Deploy Your First Agent?"
+      ],
+      "word_count": 219,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 15,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 219 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/video-generators",
+      "status": 200,
+      "load_ms": 378,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Professional Videos. No Crew Needed."
+      ],
+      "h2_count": 3,
+      "h2": [
+        "Scale Your Visual Content",
+        "Video for Every Industry",
+        "See What We Can Create for You"
+      ],
+      "word_count": 234,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 15,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 234 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/social-automation",
+      "status": 200,
+      "load_ms": 391,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Social Media on Autopilot."
+      ],
+      "h2_count": 2,
+      "h2": [
+        "Everything Your Social Needs",
+        "Stop Posting Manually"
+      ],
+      "word_count": 200,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 15,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 200 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/gmail-automation",
+      "status": 200,
+      "load_ms": 368,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Your Gmail. Runs Itself."
+      ],
+      "h2_count": 2,
+      "h2": [
+        "Smarter Email Workflows",
+        "Reclaim Your Inbox"
+      ],
+      "word_count": 204,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 16,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 204 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/ai-marketing",
+      "status": 200,
+      "load_ms": 393,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Marketing That Learns & Wins."
+      ],
+      "h2_count": 2,
+      "h2": [
+        "Your AI Marketing Stack",
+        "Ready to Scale Smarter?"
+      ],
+      "word_count": 263,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 15,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 263 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/recruiter-ai",
+      "status": 200,
+      "load_ms": 381,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Hire Smarter. At ₹2/Lead."
+      ],
+      "h2_count": 3,
+      "h2": [
+        "Built for Everyone Who Hires",
+        "Your AI Recruiting Engine",
+        "Find Your Next Great Hire Today"
+      ],
+      "word_count": 276,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 16,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 276 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/content-shooting",
+      "status": 200,
+      "load_ms": 378,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Visuals That Stop the Scroll."
+      ],
+      "h2_count": 2,
+      "h2": [
+        "Every Format Covered",
+        "Ready to Look the Part?"
+      ],
+      "word_count": 258,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 258 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/social-media",
+      "status": 200,
+      "load_ms": 420,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "We Run Your Social Media."
+      ],
+      "h2_count": 3,
+      "h2": [
+        "Our 4-Step Process",
+        "Everything Included",
+        "Let's Grow Your Presence"
+      ],
+      "word_count": 296,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 15,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 296 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/dedicated-experts",
+      "status": 200,
+      "load_ms": 413,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Not a project. A dedicated expert."
+      ],
+      "h2_count": 8,
+      "h2": [
+        "You run your business. Your expert runs your execution.",
+        "You've Paid for Growth Before. Where Did the Money Go?",
+        "Real Owners. Real Numbers.",
+        "Pick Your Dedicated Expert",
+        "From Need to Fully Onboarded in 7 Days",
+        "Built for Founders Who Value Time",
+        "You Pay Just the Salary.",
+        "Stop Juggling. Start Growing."
+      ],
+      "word_count": 999,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/ecommerce",
+      "status": 200,
+      "load_ms": 409,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "E-Commerce Solutions"
+      ],
+      "h2_count": 0,
+      "h2": [],
+      "word_count": 48,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 48 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/real-estate",
+      "status": 200,
+      "load_ms": 357,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Real Estate Solutions"
+      ],
+      "h2_count": 0,
+      "h2": [],
+      "word_count": 48,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 48 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/immigration",
+      "status": 200,
+      "load_ms": 434,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Immigration Support"
+      ],
+      "h2_count": 0,
+      "h2": [],
+      "word_count": 41,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 41 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/business",
+      "status": 200,
+      "load_ms": 397,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Business Solutions"
+      ],
+      "h2_count": 0,
+      "h2": [],
+      "word_count": 42,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 42 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/services/academic",
+      "status": 200,
+      "load_ms": 388,
+      "title": "Services — AI Automation, Marketing, Website Building & SEO/AEO/GEO | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "AnantaSutra services: AI voice agents from ₹6/min, recruiter AI at ₹2/lead, website development, SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), and full-service marketing.",
+      "desc_len": 201,
+      "h1": [
+        "Academic Solutions"
+      ],
+      "h2_count": 0,
+      "h2": [],
+      "word_count": 46,
+      "canonical": "https://anantasutra.com/services",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "HowTo",
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 201 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 46 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/apps",
+      "status": 200,
+      "load_ms": 364,
+      "title": "Apps — Granthas & Ritualist for Mindful Living | AnantaSutra",
+      "title_len": 60,
+      "meta_description": "Discover AnantaSutra apps: Granthas — all Hindu scriptures in one place, and Ritualist — your free daily companion for mindful living and habit tracking.",
+      "desc_len": 153,
+      "h1": [
+        "Apps for Mindful Living"
+      ],
+      "h2_count": 4,
+      "h2": [
+        "Granthas",
+        "Ritualist",
+        "Sanchar",
+        "Join the Journey"
+      ],
+      "word_count": 281,
+      "canonical": "https://anantasutra.com/apps",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "ItemList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 5,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Thin content: 281 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/contact",
+      "status": 200,
+      "load_ms": 510,
+      "title": "Contact Us — Get in Touch with AnantaSutra | AnantaSutra",
+      "title_len": 56,
+      "meta_description": "Contact AnantaSutra for AI automation, marketing services, or custom solutions. We respond within 24 hours. Free consultation available.",
+      "desc_len": 136,
+      "h1": [
+        "Let's Connect"
+      ],
+      "h2_count": 3,
+      "h2": [
+        "Book a Free Consultation",
+        "Send us a message",
+        "Common Questions"
+      ],
+      "word_count": 290,
+      "canonical": "https://anantasutra.com/contact",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "FAQPage",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Thin content: 290 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog",
+      "status": 200,
+      "load_ms": 411,
+      "title": "Blog — Thoughts & Insights on AI, Wisdom & Marketing | AnantaSutra",
+      "title_len": 66,
+      "meta_description": "Read articles on AI automation, ancient wisdom, marketing strategies, product stories, and the entrepreneurial journey from AnantaSutra.",
+      "desc_len": 136,
+      "h1": [],
+      "h2_count": 0,
+      "h2": [],
+      "word_count": 12,
+      "canonical": "https://anantasutra.com/blog",
+      "meta_robots": "index, follow",
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 66 (aim 30-60)"
+        },
+        {
+          "severity": "high",
+          "issue": "No H1"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 12 words"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/co-founder",
+      "status": 200,
+      "load_ms": 455,
+      "title": "Bhavya Duneja — Co-founder Portfolio | AnantaSutra",
+      "title_len": 50,
+      "meta_description": "Bhavya Duneja is the co-founder of AnantaSutra — a technologist and visionary bridging AI, marketing, spirituality, and business. Based in Delhi, India.",
+      "desc_len": 152,
+      "h1": [
+        "Bhavya Duneja"
+      ],
+      "h2_count": 7,
+      "h2": [
+        "My Story",
+        "Professional Journey",
+        "Featured Projects",
+        "Skills & Expertise",
+        "Achievements & Milestones",
+        "Client Testimonials",
+        "Let's Connect"
+      ],
+      "word_count": 1981,
+      "canonical": "https://anantasutra.com/co-founder",
+      "meta_robots": "index, follow",
+      "images": 3,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Organization",
+        "Person"
+      ],
+      "og_title": true,
+      "internal_links": 14,
+      "external_links": 10,
+      "issues": []
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/instagram-influencer-marketing-india-micro-influencers",
+      "status": 200,
+      "load_ms": 3923,
+      "title": "Instagram Influencer Marketing in India: Finding and Partnering with Micro-Influencers",
+      "title_len": 86,
+      "meta_description": "Complete guide to micro-influencer marketing on Instagram in India. Learn how to find, evaluate, partner with, and measure ROI from micro-influencer campaigns.",
+      "desc_len": 159,
+      "h1": [
+        "Instagram Influencer Marketing in India: Finding and Partnering with Micro-Influencers",
+        "Instagram Influencer Marketing in India: Finding and Partnering with Micro-Influencers"
+      ],
+      "h2_count": 8,
+      "h2": [
+        "Why Micro-Influencers Outperform in India",
+        "How to Find the Right Micro-Influencers",
+        "How to Evaluate Micro-Influencers",
+        "Structuring Micro-Influencer Deals in India",
+        "Campaign Execution Best Practices",
+        "Measuring Influencer Campaign ROI",
+        "Build Your Micro-Influencer Network",
+        "Related Articles"
+      ],
+      "word_count": 1656,
+      "canonical": "https://anantasutra.com/blog/instagram-influencer-marketing-india-micro-influencers",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 24,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 86 (aim 30-60)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        },
+        {
+          "severity": "medium",
+          "issue": "Slow server response 3923 ms"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/instagram-ads-indian-businesses-budget-targeting-creative-best-practices",
+      "status": 200,
+      "load_ms": 1037,
+      "title": "Instagram Ads for Indian Businesses: Budget, Targeting, and Creative Best Practices",
+      "title_len": 83,
+      "meta_description": "Complete guide to Instagram advertising for Indian businesses. Learn optimal budgets, targeting strategies, creative best practices, and optimization tactics for maximum ROAS.",
+      "desc_len": 175,
+      "h1": [
+        "Instagram Ads for Indian Businesses: Budget, Targeting, and Creative Best Practices",
+        "Instagram Ads for Indian Businesses: Budget, Targeting, and Creative Best Practices"
+      ],
+      "h2_count": 8,
+      "h2": [
+        "Understanding Instagram Ad Costs in India",
+        "Setting Your Instagram Ad Budget",
+        "Targeting Strategies for the Indian Market",
+        "Ad Creative Best Practices for Indian Audiences",
+        "Campaign Optimization Tactics",
+        "Common Mistakes to Avoid",
+        "Maximize Your Instagram Ad Investment",
+        "Related Articles"
+      ],
+      "word_count": 1724,
+      "canonical": "https://anantasutra.com/blog/instagram-ads-indian-businesses-budget-targeting-creative-best-practices",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 24,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 83 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 175 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/instagram-stories-lead-generation-proven-tactics",
+      "status": 200,
+      "load_ms": 1887,
+      "title": "How to Use Instagram Stories for Lead Generation: Proven Tactics",
+      "title_len": 64,
+      "meta_description": "7 proven Instagram Story tactics for lead generation. From quiz funnels to DM automation, learn how Indian businesses are turning Story viewers into qualified leads.",
+      "desc_len": 165,
+      "h1": [
+        "How to Use Instagram Stories for Lead Generation: Proven Tactics",
+        "How to Use Instagram Stories for Lead Generation: Proven Tactics"
+      ],
+      "h2_count": 12,
+      "h2": [
+        "Why Stories Outperform Other Formats for Lead Generation",
+        "Tactic 1: The Quiz Funnel",
+        "Tactic 2: The Problem-Agitate-Solve Story Sequence",
+        "Tactic 3: Behind-the-Curtain Offer",
+        "Tactic 4: The Countdown Launch",
+        "Tactic 5: The Question Box Consultation",
+        "Tactic 6: The Swipe-to-Save Resource",
+        "Tactic 7: DM Automation Triggers",
+        "Story Design Best Practices for Lead Generation",
+        "Measuring Story Lead Generation Performance",
+        "Build Your Story-Led Lead Engine",
+        "Related Articles"
+      ],
+      "word_count": 1627,
+      "canonical": "https://anantasutra.com/blog/instagram-stories-lead-generation-proven-tactics",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 64 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 165 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/instagram-reels-algorithm-decoded-maximum-reach-india",
+      "status": 200,
+      "load_ms": 1841,
+      "title": "Instagram Reels Algorithm Decoded: How to Get Maximum Reach in India",
+      "title_len": 68,
+      "meta_description": "Learn how the Instagram Reels algorithm works in India. Discover the 6 key ranking signals, optimal Reel structure, and posting strategies to maximize organic reach.",
+      "desc_len": 165,
+      "h1": [
+        "Instagram Reels Algorithm Decoded: How to Get Maximum Reach in India",
+        "Instagram Reels Algorithm Decoded: How to Get Maximum Reach in India"
+      ],
+      "h2_count": 9,
+      "h2": [
+        "How the Reels Algorithm Actually Works",
+        "The 6 Ranking Signals That Matter Most",
+        "India-Specific Algorithm Patterns",
+        "The Optimal Reel Structure for Maximum Reach",
+        "Posting Frequency and Consistency",
+        "Common Mistakes That Kill Your Reels Reach",
+        "How to Recover from Low Reach",
+        "Turn Algorithm Knowledge into Action",
+        "Related Articles"
+      ],
+      "word_count": 1553,
+      "canonical": "https://anantasutra.com/blog/instagram-reels-algorithm-decoded-maximum-reach-india",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 24,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 68 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 165 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/generate-b2b-leads-linkedin-without-ads",
+      "status": 200,
+      "load_ms": 1328,
+      "title": "How to Generate B2B Leads on LinkedIn Without Running Ads | AnantaSutra",
+      "title_len": 71,
+      "meta_description": "Learn proven organic LinkedIn strategies to generate high-quality B2B leads without ad spend. Profile optimization, content strategy, and outreach sequences that convert.",
+      "desc_len": 170,
+      "h1": [
+        "How to Generate B2B Leads on LinkedIn Without Running Ads",
+        "How to Generate B2B Leads on LinkedIn Without Running Ads"
+      ],
+      "h2_count": 10,
+      "h2": [
+        "Why Organic LinkedIn Outperforms Paid for Many B2B Companies",
+        "Foundation: Optimize Your Personal and Company Profiles",
+        "Strategy 1: The Value-First Content Engine",
+        "Strategy 2: Strategic Connection Building",
+        "Strategy 3: The Warm Outreach Sequence",
+        "Strategy 4: LinkedIn Groups and Community Engagement",
+        "Strategy 5: LinkedIn Events and Live Sessions",
+        "Measuring Organic Lead Generation Performance",
+        "Building a Sustainable System",
+        "Related Articles"
+      ],
+      "word_count": 1370,
+      "canonical": "https://anantasutra.com/blog/generate-b2b-leads-linkedin-without-ads",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 71 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 170 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/linkedin-thought-leadership-executive-presence-founders-cxos",
+      "status": 200,
+      "load_ms": 1262,
+      "title": "LinkedIn Thought Leadership: Building Executive Presence for Founders and CXOs | AnantaSutra",
+      "title_len": 92,
+      "meta_description": "Build a powerful executive presence on LinkedIn as a founder or CXO. Content frameworks, personal branding strategies, and engagement tactics that win trust and drive deals.",
+      "desc_len": 173,
+      "h1": [
+        "LinkedIn Thought Leadership: Building Executive Presence for Founders and CXOs",
+        "LinkedIn Thought Leadership: Building Executive Presence for Founders and CXOs"
+      ],
+      "h2_count": 9,
+      "h2": [
+        "Why Executive LinkedIn Presence Matters for Business Growth",
+        "Defining Your Thought Leadership Positioning",
+        "Building Your Content Engine",
+        "Profile Optimization for Executive Presence",
+        "Engagement Strategy: Amplifying Your Reach",
+        "Measuring Thought Leadership Impact",
+        "Common Pitfalls for Indian Executives on LinkedIn",
+        "The 90-Day Executive LinkedIn Plan",
+        "Related Articles"
+      ],
+      "word_count": 1546,
+      "canonical": "https://anantasutra.com/blog/linkedin-thought-leadership-executive-presence-founders-cxos",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 92 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 173 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/indian-saas-companies-linkedin-acquire-global-clients",
+      "status": 200,
+      "load_ms": 1211,
+      "title": "How Indian SaaS Companies Use LinkedIn to Acquire Global Clients | AnantaSutra",
+      "title_len": 78,
+      "meta_description": "Discover how Indian SaaS companies leverage LinkedIn to land international clients. Strategies for global positioning, content, social selling, and pipeline building.",
+      "desc_len": 166,
+      "h1": [
+        "How Indian SaaS Companies Use LinkedIn to Acquire Global Clients",
+        "How Indian SaaS Companies Use LinkedIn to Acquire Global Clients"
+      ],
+      "h2_count": 11,
+      "h2": [
+        "Why LinkedIn Is the Channel of Choice for Global SaaS",
+        "Strategy 1: Build a Global-Ready Brand Presence",
+        "Strategy 2: Content That Resonates Across Borders",
+        "Strategy 3: Social Selling with Sales Navigator",
+        "Strategy 4: Leverage Customer Advocacy",
+        "Strategy 5: Community and Ecosystem Building",
+        "Strategy 6: Employee-Driven International Reach",
+        "Measuring LinkedIn's Impact on Global Acquisition",
+        "Case Study: The LinkedIn-First Global Expansion Playbook",
+        "Getting Started",
+        "Related Articles"
+      ],
+      "word_count": 1419,
+      "canonical": "https://anantasutra.com/blog/indian-saas-companies-linkedin-acquire-global-clients",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 78 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 166 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/linkedin-company-page-optimization-guide-indian-businesses",
+      "status": 200,
+      "load_ms": 1248,
+      "title": "LinkedIn Company Page Optimization: Step-by-Step Guide for Indian Businesses | AnantaSutra",
+      "title_len": 90,
+      "meta_description": "Optimize your LinkedIn Company Page to attract followers, generate leads, and build brand authority. Complete step-by-step guide tailored for Indian businesses.",
+      "desc_len": 160,
+      "h1": [
+        "LinkedIn Company Page Optimization: A Step-by-Step Guide for Indian Businesses",
+        "LinkedIn Company Page Optimization: A Step-by-Step Guide for Indian Businesses"
+      ],
+      "h2_count": 13,
+      "h2": [
+        "Why Your Company Page Matters More Than You Think",
+        "Step 1: Complete Your Basic Information (100% Completion Score)",
+        "Step 2: Craft Your Visual Identity",
+        "Step 3: Write a Compelling About Section",
+        "Step 4: Configure Your Call-to-Action Button",
+        "Step 5: Create Showcase Pages for Key Offerings",
+        "Step 6: Develop Your Content Strategy for the Company Page",
+        "Step 7: Leverage LinkedIn Analytics",
+        "Step 8: Activate Employee Engagement",
+        "Step 9: Integrate with Your Marketing Stack",
+        "Common Mistakes to Avoid",
+        "Your Optimization Checklist"
+      ],
+      "word_count": 1604,
+      "canonical": "https://anantasutra.com/blog/linkedin-company-page-optimization-guide-indian-businesses",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 24,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 90 (aim 30-60)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/linkedin-content-strategy-posts-most-engagement-2026",
+      "status": 200,
+      "load_ms": 1300,
+      "title": "LinkedIn Content Strategy: What Posts Get the Most Engagement in 2026 | AnantaSutra",
+      "title_len": 83,
+      "meta_description": "Discover which LinkedIn post formats drive the most B2B engagement in 2026. Data-backed insights on carousels, video, polls, newsletters, and optimal posting strategies.",
+      "desc_len": 169,
+      "h1": [
+        "LinkedIn Content Strategy: What Posts Get the Most Engagement in 2026",
+        "LinkedIn Content Strategy: What Posts Get the Most Engagement in 2026"
+      ],
+      "h2_count": 8,
+      "h2": [
+        "The 2026 LinkedIn Algorithm: What Has Changed",
+        "Top Performing Post Formats in 2026",
+        "Content Themes That Drive B2B Engagement",
+        "Posting Frequency and Timing in 2026",
+        "Engagement Tactics That Amplify Reach",
+        "What to Avoid in 2026",
+        "Building Your 2026 Content Calendar",
+        "Related Articles"
+      ],
+      "word_count": 1371,
+      "canonical": "https://anantasutra.com/blog/linkedin-content-strategy-posts-most-engagement-2026",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 83 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 169 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/complete-linkedin-marketing-guide-b2b-companies-india",
+      "status": 200,
+      "load_ms": 1220,
+      "title": "The Complete LinkedIn Marketing Guide for B2B Companies in India | AnantaSutra",
+      "title_len": 78,
+      "meta_description": "Master LinkedIn marketing for B2B companies in India. Learn company page optimization, content strategy, lead generation tactics, and paid campaigns that drive revenue.",
+      "desc_len": 168,
+      "h1": [
+        "The Complete LinkedIn Marketing Guide for B2B Companies in India",
+        "The Complete LinkedIn Marketing Guide for B2B Companies in India"
+      ],
+      "h2_count": 11,
+      "h2": [
+        "Why LinkedIn Is Non-Negotiable for Indian B2B Companies",
+        "Step 1: Optimize Your Company Page for Maximum Impact",
+        "Step 2: Define Your Target Audience with Precision",
+        "Step 3: Build a Content Strategy That Converts",
+        "Step 4: Activate Employee Advocacy",
+        "Step 5: Master LinkedIn Lead Generation",
+        "Step 6: Leverage LinkedIn Sales Navigator",
+        "Step 7: Measure, Analyse, and Optimize",
+        "Common Mistakes Indian B2B Companies Make on LinkedIn",
+        "Getting Started: Your 30-Day LinkedIn Marketing Plan",
+        "Related Articles"
+      ],
+      "word_count": 1372,
+      "canonical": "https://anantasutra.com/blog/complete-linkedin-marketing-guide-b2b-companies-india",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 24,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 78 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 168 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/linkedin-newsletter-strategy-building-audience-decision-makers",
+      "status": 200,
+      "load_ms": 1730,
+      "title": "LinkedIn Newsletter Strategy: Building an Audience of Decision Makers | AnantaSutra",
+      "title_len": 83,
+      "meta_description": "Learn how to launch and grow a LinkedIn Newsletter that attracts B2B decision makers. Strategy, content frameworks, promotion tactics, and audience growth approaches.",
+      "desc_len": 166,
+      "h1": [
+        "LinkedIn Newsletter Strategy: Building an Audience of Decision Makers",
+        "LinkedIn Newsletter Strategy: Building an Audience of Decision Makers"
+      ],
+      "h2_count": 10,
+      "h2": [
+        "Why LinkedIn Newsletters Outperform Traditional Content",
+        "Planning Your Newsletter: Strategic Foundations",
+        "Content Framework for Decision-Maker Newsletters",
+        "Growing Your Subscriber Base",
+        "Engaging Your Subscriber Community",
+        "Monetisation and Business Impact",
+        "Measuring Newsletter Performance",
+        "Common Newsletter Mistakes",
+        "Your Newsletter Launch Checklist",
+        "Related Articles"
+      ],
+      "word_count": 1480,
+      "canonical": "https://anantasutra.com/blog/linkedin-newsletter-strategy-building-audience-decision-makers",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 83 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 166 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/linkedin-video-content-strategy-types-best-practices-case-studies",
+      "status": 200,
+      "load_ms": 1200,
+      "title": "LinkedIn Video Content Strategy: Types, Best Practices, and Case Studies | AnantaSutra",
+      "title_len": 86,
+      "meta_description": "Master LinkedIn video content for B2B marketing. Explore video types, production best practices, algorithm insights, and case studies of Indian companies winning with video.",
+      "desc_len": 173,
+      "h1": [
+        "LinkedIn Video Content Strategy: Types, Best Practices, and Case Studies",
+        "LinkedIn Video Content Strategy: Types, Best Practices, and Case Studies"
+      ],
+      "h2_count": 9,
+      "h2": [
+        "Why Video Matters on LinkedIn in 2026",
+        "Types of LinkedIn Video Content for B2B",
+        "Video Production Best Practices for LinkedIn",
+        "LinkedIn Video Algorithm Insights",
+        "Case Studies: Indian B2B Companies Winning with LinkedIn Video",
+        "Building Your Video Content Calendar",
+        "Measuring Video Performance",
+        "Getting Started: Your First LinkedIn Video",
+        "Related Articles"
+      ],
+      "word_count": 1699,
+      "canonical": "https://anantasutra.com/blog/linkedin-video-content-strategy-types-best-practices-case-studies",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 24,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 86 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 173 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/facebook-ads-local-businesses-india-budget-friendly-guide",
+      "status": 200,
+      "load_ms": 1260,
+      "title": "Facebook Ads for Local Businesses in India: A Budget-Friendly Guide",
+      "title_len": 67,
+      "meta_description": "Step-by-step guide for Indian local businesses to run profitable Facebook ads on budgets as low as Rs 10,000/month with hyperlocal targeting strategies.",
+      "desc_len": 152,
+      "h1": [
+        "Facebook Ads for Local Businesses in India: A Budget-Friendly Guide",
+        "Facebook Ads for Local Businesses in India: A Budget-Friendly Guide"
+      ],
+      "h2_count": 9,
+      "h2": [
+        "Why Facebook Ads Work Brilliantly for Local Indian Businesses",
+        "Setting Up Your Facebook Ad Account the Right Way",
+        "The Rs 10,000/Month Facebook Ad Strategy for Local Businesses",
+        "Ad Formats That Work Best for Local Businesses",
+        "5 Ad Copy Formulas That Drive Local Business",
+        "Tracking Results on a Small Budget",
+        "Common Mistakes Local Businesses Must Avoid",
+        "Scaling From Rs 10,000 to Rs 50,000 Per Month",
+        "Related Articles"
+      ],
+      "word_count": 1498,
+      "canonical": "https://anantasutra.com/blog/facebook-ads-local-businesses-india-budget-friendly-guide",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 67 (aim 30-60)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/employee-advocacy-linkedin-turn-team-brand-ambassadors",
+      "status": 200,
+      "load_ms": 1711,
+      "title": "Employee Advocacy on LinkedIn: Turn Your Team into Brand Ambassadors | AnantaSutra",
+      "title_len": 82,
+      "meta_description": "Build a LinkedIn employee advocacy programme that amplifies your B2B brand reach by 10x. Strategy, content playbooks, tools, and measurement frameworks for Indian companies.",
+      "desc_len": 173,
+      "h1": [
+        "Employee Advocacy on LinkedIn: How to Turn Your Team into Brand Ambassadors",
+        "Employee Advocacy on LinkedIn: How to Turn Your Team into Brand Ambassadors"
+      ],
+      "h2_count": 9,
+      "h2": [
+        "The Business Case for Employee Advocacy",
+        "Building the Foundation: Programme Design",
+        "The Content Ecosystem: Fuelling Your Advocates",
+        "Tools and Technology",
+        "Motivation and Gamification",
+        "Measuring Programme Impact",
+        "Overcoming Common Challenges",
+        "Implementation Timeline",
+        "Related Articles"
+      ],
+      "word_count": 1554,
+      "canonical": "https://anantasutra.com/blog/employee-advocacy-linkedin-turn-team-brand-ambassadors",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 82 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 173 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/linkedin-sales-navigator-complete-guide-social-selling-india",
+      "status": 200,
+      "load_ms": 1244,
+      "title": "LinkedIn Sales Navigator: Complete Guide to Social Selling in India | AnantaSutra",
+      "title_len": 81,
+      "meta_description": "Master LinkedIn Sales Navigator for social selling in India. Advanced search strategies, InMail tactics, CRM integration, and outreach sequences that close B2B deals.",
+      "desc_len": 166,
+      "h1": [
+        "LinkedIn Sales Navigator: The Complete Guide to Social Selling in India",
+        "LinkedIn Sales Navigator: The Complete Guide to Social Selling in India"
+      ],
+      "h2_count": 11,
+      "h2": [
+        "What LinkedIn Sales Navigator Actually Offers",
+        "Setting Up Sales Navigator for Indian Markets",
+        "Advanced Search Strategies for Indian B2B",
+        "Building and Managing Lead Lists",
+        "The Social Selling Methodology",
+        "InMail Strategy That Gets Responses",
+        "Integrating Sales Navigator with Your Sales Stack",
+        "Measuring Social Selling ROI",
+        "Common Mistakes Indian Sales Teams Make",
+        "Getting Started: Your First 30 Days",
+        "Related Articles"
+      ],
+      "word_count": 1572,
+      "canonical": "https://anantasutra.com/blog/linkedin-sales-navigator-complete-guide-social-selling-india",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 81 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 166 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/facebook-marketplace-marketing-local-sellers-compete-ecommerce",
+      "status": 200,
+      "load_ms": 1237,
+      "title": "Facebook Marketplace Marketing: How Local Sellers Can Compete with E-commerce Giants",
+      "title_len": 84,
+      "meta_description": "Learn how Indian local sellers can leverage Facebook Marketplace to compete with Amazon and Flipkart using trust, personalization, and zero-commission selling.",
+      "desc_len": 159,
+      "h1": [
+        "Facebook Marketplace Marketing: How Local Sellers Can Compete with E-commerce Giants",
+        "Facebook Marketplace Marketing: How Local Sellers Can Compete with E-commerce Giants"
+      ],
+      "h2_count": 7,
+      "h2": [
+        "Why Facebook Marketplace Levels the Playing Field",
+        "Setting Up for Success on Facebook Marketplace",
+        "Marketing Strategies That Work on Facebook Marketplace",
+        "Competing on Service, Not Just Price",
+        "Using Facebook Ads to Boost Marketplace Sales",
+        "Handling Common Marketplace Challenges",
+        "Related Articles"
+      ],
+      "word_count": 1414,
+      "canonical": "https://anantasutra.com/blog/facebook-marketplace-marketing-local-sellers-compete-ecommerce",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 84 (aim 30-60)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anantasutra.com/blog/facebook-lead-ads-indian-real-estate-qualified-buyer-leads",
+      "status": 200,
+      "load_ms": 1813,
+      "title": "Facebook Lead Ads for Indian Real Estate: Generate Qualified Buyer Leads",
+      "title_len": 72,
+      "meta_description": "Complete guide to generating qualified real estate buyer leads using Facebook Lead Ads in India. Includes form templates, targeting, creative, and follow-up systems.",
+      "desc_len": 165,
+      "h1": [
+        "Facebook Lead Ads for Indian Real Estate: Generate Qualified Buyer Leads",
+        "Facebook Lead Ads for Indian Real Estate: Generate Qualified Buyer Leads"
+      ],
+      "h2_count": 8,
+      "h2": [
+        "Why Facebook Lead Ads Are Ideal for Indian Real Estate",
+        "Setting Up High-Converting Real Estate Lead Ads",
+        "Targeting Strategies for Indian Real Estate",
+        "Ad Creative That Drives Real Estate Leads",
+        "Lead Follow-Up: The Make-or-Break Factor",
+        "Budget Planning for Real Estate Lead Ads",
+        "Compliance and Best Practices",
+        "Related Articles"
+      ],
+      "word_count": 1492,
+      "canonical": "https://anantasutra.com/blog/facebook-lead-ads-indian-real-estate-qualified-buyer-leads",
+      "meta_robots": null,
+      "images": 2,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [
+        "Article",
+        "BreadcrumbList",
+        "Organization"
+      ],
+      "og_title": true,
+      "internal_links": 23,
+      "external_links": 6,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 72 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 165 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "2 H1 tags"
+        }
+      ]
+    }
+  ]
+}

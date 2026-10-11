@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-09",
+  "competitors": [
+    {
+      "name": "Uplers",
+      "first_run": true,
+      "page_changes": [],
+      "errors": [],
+      "sitemap_size": 771,
+      "baseline": {
+        "https://www.uplers.com/": {
+          "title": "Hire Software Engineers from India | AI Recruitment Partner",
+          "h1": [
+            "Hire Top Talents Quickly with AI & Human Intelligence"
+          ],
+          "h2": [
+            "Hire in 4 Easy Steps",
+            "Everything you need to Hire with Confidence",
+            "Why Uplers is the Better Choice for Tech Companies",
+            "Finding top talent from India is like finding a needle in a haystack.",
+            "Finding top talent from India is like finding a needle in a haystack."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Toptal",
+      "first_run": true,
+      "page_changes": [],
+      "errors": [],
+      "sitemap_size": 0,
+      "baseline": {
+        "https://www.toptal.com/": {
+          "title": "Toptal - Hire Freelance Talent from the Top 3%",
+          "h1": [
+            "Hire the Top 3% of Freelance Talent ®"
+          ],
+          "h2": [
+            "High-impact Solutions Executed by World-class Leadership and Talent",
+            "Leverage World-class Talent",
+            "Toptal Ranked #1 Most Reliable Professional Services Company in America",
+            "Hiring Made Easy",
+            "Collaborations With Leading Brands",
+            "Explore Trending Toptal Publications",
+            "Build Amazing Teams, On Demand",
+            "Meet Talent in Our Network",
+            "Explore Our Consulting & Services",
+            "Top Talent from Leading AI Companies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Turing",
+      "first_run": true,
+      "page_changes": [],
+      "errors": [],
+      "sitemap_size": 0,
+      "baseline": {
+        "https://www.turing.com/": {
+          "title": "",
+          "h1": [],
+          "h2": []
+        }
+      }
+    },
+    {
+      "name": "Virtual Employee",
+      "first_run": true,
+      "page_changes": [],
+      "errors": [],
+      "sitemap_size": 914,
+      "baseline": {
+        "https://www.virtualemployee.com/": {
+          "title": "Hire Virtual Employees from India | AI-Enabled Remote Staffing",
+          "h1": [
+            "Hire Virtual Employee For Any Role"
+          ],
+          "h2": [
+            "What Makes Virtual Employee the Better Choice",
+            "Services That You Need"
+          ]
+        },
+        "https://www.virtualemployee.com/hire-remote-staff": {
+          "title": "Hire Remote Staff in India - From $9/Hour",
+          "h1": [
+            "Hire Remote Staff in India"
+          ],
+          "h2": [
+            "Start With a Free Trial",
+            "Build Dedicated Teams for Every Business Function",
+            "Skilled Professionals Driving Consistent Results",
+            "Not Freelancers or Project-Based Outsourcing",
+            "You Also Need the Right Remote Staffing Partner",
+            "Start With a Free Trial",
+            "700+ Verified Client Video Testimonials",
+            "Learn How Companies Build and Scale Remote Teams",
+            "FAQs on Hiring Remote Staff",
+            "Hire Remote Staff in India to Build Scalable Global Teams"
+          ]
+        },
+        "https://www.virtualemployee.com/hire-virtual-staff": {
+          "title": "Hire Virtual Staff in India - From $9/Hour",
+          "h1": [
+            "Hire Virtual Staff in India"
+          ],
+          "h2": [
+            "Start With a Free Trial",
+            "From VA to AI and Everything in Between",
+            "Experienced Professionals Delivering Real Business Impact",
+            "Not Freelancers or Short-Term Outsourcing",
+            "You Also Need a Reliable Virtual Staffing Partner",
+            "Start With a Free Trial",
+            "Trusted by 4500+ Businesses in 48 Countries",
+            "Read Our Blogs on Hiring & Scaling Global Talent",
+            "FAQs on Virtual Staff Hiring",
+            "Hire Virtual Staff in India to Build High-Performing Teams"
+          ]
+        },
+        "https://www.virtualemployee.com/faqs": {
+          "title": "VE FAQs – Frequently Asked Questions",
+          "h1": [
+            "Frequently Asked Questions"
+          ],
+          "h2": [
+            "About Virtual Employee",
+            "Hiring, Resources and Models",
+            "Services, Systems and Supervision",
+            "Working with Virtual Employees",
+            "Clients, Costs and Contracts",
+            "Still Have a Question?"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Second Talent",
+      "first_run": true,
+      "page_changes": [],
+      "errors": [],
+      "sitemap_size": 1206,
+      "baseline": {
+        "https://www.secondtalent.com/": {
+          "title": "Second Talent - Hire AI-Native Engineers from Asia",
+          "h1": [
+            "Hire AI-Native Developers you can trust."
+          ],
+          "h2": [
+            "Agent-ready talent at $103K a year less.",
+            "How Second Talent works",
+            "Outcomes That Matter",
+            "Why Second Talent?",
+            "Customer Speaks",
+            "Hire Pre-vetted Developers in 24hrs",
+            "Latest Insights",
+            "Asia's top engineers, fully compliant, matched in 24 hours."
+          ]
+        },
+        "https://www.secondtalent.com/cost-to-hire/": {
+          "title": "Cost to Hire a Software Developer: Freelance Rates by Country - 2026",
+          "h1": [
+            "Cost to hire a software developer"
+          ],
+          "h2": [
+            "Rates by stack",
+            "Rates by market",
+            "Offshore software development rates by country",
+            "Where these numbers come from",
+            "Citing this page",
+            "Questions buyers ask",
+            "Hiring rather than researching?"
+          ]
+        },
+        "https://www.secondtalent.com/alternatives/": {
+          "title": "Top 25 Platforms to Hire Vetted Developers Compared - 2026 - Second Talent",
+          "h1": [
+            "Top 25 Platforms to Hire Vetted Developers Compared"
+          ],
+          "h2": [
+            "Developer Marketplaces",
+            "EOR & Payroll Platforms",
+            "Head-to-Head Comparisons",
+            "Need to hire instead of read? We can help."
+          ]
+        },
+        "https://www.secondtalent.com/faqs/": {
+          "title": "Frequently Asked Questions (FAQ) - Second Talent",
+          "h1": [
+            "Frequently Asked Questions (FAQ)"
+          ],
+          "h2": [
+            "Getting started",
+            "Second Talent platform",
+            "Hiring & vetting process",
+            "Pricing & contracts",
+            "Employer of Record (EOR)",
+            "AI-native talent",
+            "Trust & security",
+            "Productivity & performance",
+            "Compliance & legal",
+            "International expansion"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Flexiple",
+      "first_run": true,
+      "page_changes": [],
+      "errors": [],
+      "sitemap_size": 3526,
+      "baseline": {
+        "https://flexiple.com/": {
+          "title": "Build Your Offshore India Team in Weeks | Flexiple",
+          "h1": [
+            "Your offshore India team, built in weeks, not months."
+          ],
+          "h2": [
+            "From Series A startups to Fortune 500 companies",
+            "Everyone's hiring in India. But only a few are doing it without the chaos.",
+            "Meet Flexiple: the one partner that handles it all.",
+            "We don't disappear after the hire.",
+            "Three ways to build with us.",
+            "How we find top performers for you?",
+            "Roles We Hire For.",
+            "How we build your team in India.",
+            "Why companies switch to Flexiple?",
+            "How companies build their India teams with Flexiple."
+          ]
+        },
+        "https://flexiple.com/contractor": {
+          "title": "Contractor | Hire Pre-Vetted India Contractors | Flexiple",
+          "h1": [
+            "You focus on building. We focus on finding the right contractor."
+          ],
+          "h2": [
+            "The fastest-moving teams are already here",
+            "The right contractors change everything.",
+            "Everything we handle, so you don't have to.",
+            "India's largest contractor sourcing network.",
+            "Any role. Any skill. All based in India.",
+            "How CreditBook shipped their invoicing platform in 2 weeks",
+            "How CreditBook shipped their invoicing platform in 2 weeks",
+            "From brief to working together",
+            "Is a contractor right for you?",
+            "Which model fits?"
+          ]
+        },
+        "https://flexiple.com/managed-teams": {
+          "title": "Managed India Teams | We Hire, Employ, and Run | Flexiple",
+          "h1": [
+            "India talent dedicated to you. Employed by us"
+          ],
+          "h2": [
+            "Join the teams already building in India",
+            "Your team. Our payroll.",
+            "From Brief to Working Team",
+            "How CertifyOS built an India team with zero HR overhead.",
+            "How CertifyOS built an India team with zero HR overhead.",
+            "We've run India ops for 100+ teams. Yours is next.",
+            "Is Managed Teams right for you?",
+            "Which model fits?",
+            "How companies build their India teams with Flexiple.",
+            "Frequently asked questions."
+          ]
+        },
+        "https://flexiple.com/gcc": {
+          "title": "GCC | Build Your Own India Entity | Flexiple",
+          "h1": [
+            "Build your India strategy. We make it real."
+          ],
+          "h2": [
+            "The most deliberate GCC builders are already here",
+            "Why the best companies are building in India and owning it.",
+            "Your first 6 months.",
+            "Strategic decisions we help you make.",
+            "We take care of everything it takes to go from zero to operational.",
+            "Flexiple vs. the alternatives.",
+            "The reason most GCCs stall isn't entity setup. It's hiring.",
+            "Is a GCC right for you?",
+            "Which model fits?",
+            "More on GCCs in India"
+          ]
+        }
+      }
+    }
+  ]
+}

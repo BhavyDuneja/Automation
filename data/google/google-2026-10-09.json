@@ -1,0 +1,822 @@
+{
+  "period": [
+    "2026-09-10",
+    "2026-10-07"
+  ],
+  "previous": [
+    "2026-08-13",
+    "2026-09-09"
+  ],
+  "errors": [],
+  "gsc_queries": [
+    {
+      "query": "ai for campus hiring",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "ai hiring for universities",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "ai-powered campus recruitment",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "ananta sutra",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "campus recruitment automation",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 61.8
+    },
+    {
+      "query": "cost per click rates india",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "query": "generative ai agency",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "generative engine marketing india",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "google ads per click cost in india",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
+    },
+    {
+      "query": "india social commerce market",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 78.3
+    },
+    {
+      "query": "social commerce india",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 72.7
+    },
+    {
+      "query": "social commerce platforms in india",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 65.5
+    },
+    {
+      "query": "student recruitment automation tools",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 80.5
+    },
+    {
+      "query": "top social listening tools for d2c brands india 2026",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    }
+  ],
+  "gsc_pages": [
+    {
+      "page": "https://anantasutra.com/co-founder/",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 8.33,
+      "position": 3.3
+    },
+    {
+      "page": "https://anantasutra.com/",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 3.3
+    },
+    {
+      "page": "https://anantasutra.com/blog",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 7.7
+    },
+    {
+      "page": "https://anantasutra.com/blog/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://anantasutra.com/blog/ai-campus-recruitment-automate-hiring-indian-colleges",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 65.7
+    },
+    {
+      "page": "https://anantasutra.com/blog/build-newsletter-people-want-to-read",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://anantasutra.com/blog/color-psychology-marketing-choosing-right-palette-indian-brand",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://anantasutra.com/blog/flipkart-amazon-sellers-ai-calling-boost-repeat-purchases",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 11.4
+    },
+    {
+      "page": "https://anantasutra.com/blog/generative-ai-changing-indian-marketing-agency-business-model",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 16.4
+    },
+    {
+      "page": "https://anantasutra.com/blog/nextjs-vs-wordpress-choosing-right-platform-business-website",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "page": "https://anantasutra.com/blog/reduce-google-ads-cost-per-click-india-50-percent",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "page": "https://anantasutra.com/blog/responsible-ai-practices-define-successful-indian-companies",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5.7
+    },
+    {
+      "page": "https://anantasutra.com/blog/social-commerce-india-brands-sell-directly-through-social-media",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 34.1
+    },
+    {
+      "page": "https://anantasutra.com/blog/video-production-budget-guide-indian-smes-quality-within-budget",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 9.8
+    },
+    {
+      "page": "https://ritualist.anantasutra.com/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.anantasutra.com/blog/ai-marketing-tools-2026-complete-guide-indian-businesses",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.anantasutra.com/blog/ai-powered-recruitment-pipeline-job-posting-to-offer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.anantasutra.com/blog/gmail-filters-labels-ultimate-organization-system-professionals",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4.9
+    },
+    {
+      "page": "https://www.anantasutra.com/blog/reduce-google-ads-cost-per-click-india-50-percent",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 29.7
+    },
+    {
+      "page": "https://www.anantasutra.com/blog?tag=Deal%20Closure",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "gsc_queries_previous": [
+    {
+      "query": "ai for campus hiring",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "ai hiring for universities",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "ai-powered campus recruitment",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "campus hiring solution",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "campus recruitment automation",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 54.6
+    },
+    {
+      "query": "gmail categories vs labels",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "query": "gmail filters or condition",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "query": "gmail labels vs categories",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 36.5
+    },
+    {
+      "query": "indian school whatsapp group",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "is zapier an indian company?",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "student recruitment automation tools",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    }
+  ],
+  "ga4_channels": [
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": "854",
+      "totalUsers": "849",
+      "engagementRate": "0.544496487119438",
+      "keyEvents": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": "16",
+      "totalUsers": "7",
+      "engagementRate": "0.5625",
+      "keyEvents": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "AI Assistant",
+      "sessions": "7",
+      "totalUsers": "7",
+      "engagementRate": "0.2857142857142857",
+      "keyEvents": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessions": "7",
+      "totalUsers": "7",
+      "engagementRate": "0.7142857142857143",
+      "keyEvents": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": "1",
+      "totalUsers": "1",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    }
+  ],
+  "ga4_channels_previous": [
+    {
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": "97",
+      "totalUsers": "91",
+      "engagementRate": "0.34020618556701032",
+      "keyEvents": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": "10",
+      "totalUsers": "9",
+      "engagementRate": "0.7",
+      "keyEvents": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "AI Assistant",
+      "sessions": "8",
+      "totalUsers": "6",
+      "engagementRate": "0.375",
+      "keyEvents": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessions": "5",
+      "totalUsers": "5",
+      "engagementRate": "0.2",
+      "keyEvents": "0"
+    },
+    {
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": "4",
+      "totalUsers": "4",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    }
+  ],
+  "ga4_landing_pages": [
+    {
+      "landingPage": "/blog",
+      "sessions": "585",
+      "totalUsers": "584",
+      "engagementRate": "0.63760683760683756",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/",
+      "sessions": "37",
+      "totalUsers": "34",
+      "engagementRate": "0.48648648648648651",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/admin",
+      "sessions": "10",
+      "totalUsers": "7",
+      "engagementRate": "0.7",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/portfolio",
+      "sessions": "8",
+      "totalUsers": "6",
+      "engagementRate": "0.625",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/social-media-benchmarks-indian-industries-what-good-looks-like",
+      "sessions": "5",
+      "totalUsers": "5",
+      "engagementRate": "0.6",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/services/marketing",
+      "sessions": "5",
+      "totalUsers": "5",
+      "engagementRate": "0.6",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "(not set)",
+      "sessions": "4",
+      "totalUsers": "3",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/services/ai-automation",
+      "sessions": "4",
+      "totalUsers": "4",
+      "engagementRate": "0.25",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/d2c-brands-india-winning-instagram-marketing",
+      "sessions": "3",
+      "totalUsers": "3",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/google-ads-bidding-strategies-manual-cpc-vs-smart-bidding",
+      "sessions": "3",
+      "totalUsers": "3",
+      "engagementRate": "0.33333333333333331",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/google-ads-keyword-strategy-indian-markets-high-intent",
+      "sessions": "3",
+      "totalUsers": "3",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/instagram-reels-algorithm-decoded-maximum-reach-india",
+      "sessions": "3",
+      "totalUsers": "3",
+      "engagementRate": "0.33333333333333331",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/instagram-stories-lead-generation-proven-tactics",
+      "sessions": "3",
+      "totalUsers": "3",
+      "engagementRate": "0.33333333333333331",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/leadership-lessons-india-top-tech-founders-aspiring-entrepreneurs",
+      "sessions": "3",
+      "totalUsers": "3",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/whatsapp-broadcast-vs-groups-vs-channels-best-for-marketing",
+      "sessions": "3",
+      "totalUsers": "3",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/co-founder",
+      "sessions": "3",
+      "totalUsers": "3",
+      "engagementRate": "0.33333333333333331",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/contact",
+      "sessions": "3",
+      "totalUsers": "2",
+      "engagementRate": "0.33333333333333331",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/services/dedicated-experts",
+      "sessions": "3",
+      "totalUsers": "3",
+      "engagementRate": "0.66666666666666663",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/7-ways-ai-calling-agents-increase-sales-conversion-rates",
+      "sessions": "2",
+      "totalUsers": "2",
+      "engagementRate": "0.5",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/ai-adoption-indian-businesses-current-state-future-predictions",
+      "sessions": "2",
+      "totalUsers": "2",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/ai-campus-recruitment-automate-hiring-indian-colleges",
+      "sessions": "2",
+      "totalUsers": "2",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/ai-customer-service-beyond-chatbots-intelligent-support",
+      "sessions": "2",
+      "totalUsers": "2",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/ai-generated-explainer-videos-saas-products-convert-free-trials",
+      "sessions": "2",
+      "totalUsers": "2",
+      "engagementRate": "0.5",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/ai-marketing-stack-essential-tools-indian-marketing-teams-2026",
+      "sessions": "2",
+      "totalUsers": "2",
+      "engagementRate": "0",
+      "keyEvents": "0"
+    },
+    {
+      "landingPage": "/blog/ai-marketing-tools-2026-complete-guide-indian-businesses",
+      "sessions": "2",
+      "totalUsers": "2",
+      "engagementRate": "0.5",
+      "keyEvents": "0"
+    }
+  ],
+  "ga4_countries": [
+    {
+      "country": "Singapore",
+      "sessions": "797",
+      "totalUsers": "798",
+      "engagementRate": "0.55708908406524471",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Brazil",
+      "sessions": "88",
+      "totalUsers": "88",
+      "engagementRate": "0.92045454545454541",
+      "keyEvents": "0"
+    },
+    {
+      "country": "India",
+      "sessions": "49",
+      "totalUsers": "43",
+      "engagementRate": "0.69387755102040816",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Pakistan",
+      "sessions": "32",
+      "totalUsers": "32",
+      "engagementRate": "0.875",
+      "keyEvents": "0"
+    },
+    {
+      "country": "South Africa",
+      "sessions": "29",
+      "totalUsers": "29",
+      "engagementRate": "0.93103448275862066",
+      "keyEvents": "0"
+    },
+    {
+      "country": "United States",
+      "sessions": "28",
+      "totalUsers": "28",
+      "engagementRate": "0.32142857142857145",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Argentina",
+      "sessions": "24",
+      "totalUsers": "24",
+      "engagementRate": "0.75",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Vietnam",
+      "sessions": "21",
+      "totalUsers": "21",
+      "engagementRate": "0.90476190476190477",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Bangladesh",
+      "sessions": "14",
+      "totalUsers": "14",
+      "engagementRate": "0.9285714285714286",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Mexico",
+      "sessions": "13",
+      "totalUsers": "13",
+      "engagementRate": "0.92307692307692313",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Iraq",
+      "sessions": "12",
+      "totalUsers": "12",
+      "engagementRate": "1",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Japan",
+      "sessions": "12",
+      "totalUsers": "2",
+      "engagementRate": "0.66666666666666663",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Russia",
+      "sessions": "11",
+      "totalUsers": "11",
+      "engagementRate": "0.81818181818181823",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Chile",
+      "sessions": "10",
+      "totalUsers": "10",
+      "engagementRate": "0.9",
+      "keyEvents": "0"
+    },
+    {
+      "country": "Ecuador",
+      "sessions": "10",
+      "totalUsers": "10",
+      "engagementRate": "1",
+      "keyEvents": "0"
+    }
+  ],
+  "ga4_daily": [
+    {
+      "date": "20260910",
+      "sessions": "13",
+      "totalUsers": "12"
+    },
+    {
+      "date": "20260911",
+      "sessions": "16",
+      "totalUsers": "12"
+    },
+    {
+      "date": "20260913",
+      "sessions": "11",
+      "totalUsers": "9"
+    },
+    {
+      "date": "20260914",
+      "sessions": "9",
+      "totalUsers": "8"
+    },
+    {
+      "date": "20260915",
+      "sessions": "11",
+      "totalUsers": "11"
+    },
+    {
+      "date": "20260916",
+      "sessions": "5",
+      "totalUsers": "5"
+    },
+    {
+      "date": "20260917",
+      "sessions": "677",
+      "totalUsers": "677"
+    },
+    {
+      "date": "20260918",
+      "sessions": "27",
+      "totalUsers": "27"
+    },
+    {
+      "date": "20260919",
+      "sessions": "26",
+      "totalUsers": "26"
+    },
+    {
+      "date": "20260920",
+      "sessions": "3",
+      "totalUsers": "3"
+    },
+    {
+      "date": "20260921",
+      "sessions": "6",
+      "totalUsers": "6"
+    },
+    {
+      "date": "20260922",
+      "sessions": "3",
+      "totalUsers": "3"
+    },
+    {
+      "date": "20260923",
+      "sessions": "5",
+      "totalUsers": "5"
+    },
+    {
+      "date": "20260924",
+      "sessions": "10",
+      "totalUsers": "10"
+    },
+    {
+      "date": "20260925",
+      "sessions": "9",
+      "totalUsers": "9"
+    },
+    {
+      "date": "20260926",
+      "sessions": "4",
+      "totalUsers": "4"
+    },
+    {
+      "date": "20260927",
+      "sessions": "2",
+      "totalUsers": "2"
+    },
+    {
+      "date": "20260928",
+      "sessions": "7",
+      "totalUsers": "7"
+    },
+    {
+      "date": "20260929",
+      "sessions": "3",
+      "totalUsers": "3"
+    },
+    {
+      "date": "20261001",
+      "sessions": "7",
+      "totalUsers": "7"
+    },
+    {
+      "date": "20261002",
+      "sessions": "6",
+      "totalUsers": "6"
+    },
+    {
+      "date": "20261003",
+      "sessions": "7",
+      "totalUsers": "7"
+    },
+    {
+      "date": "20261004",
+      "sessions": "3",
+      "totalUsers": "3"
+    },
+    {
+      "date": "20261005",
+      "sessions": "5",
+      "totalUsers": "5"
+    },
+    {
+      "date": "20261006",
+      "sessions": "4",
+      "totalUsers": "4"
+    },
+    {
+      "date": "20261007",
+      "sessions": "7",
+      "totalUsers": "6"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "site": "https://www.uplers.com",
+  "date": "2026-10-09",
+  "site_checks": {
+    "robots_txt": true,
+    "sitemaps_declared": [
+      "https://www.uplers.com/page-sitemap.xml",
+      "https://www.uplers.com/post-sitemap.xml",
+      "https://www.uplers.com/next-sitemap.xml",
+      "https://www.uplers.com/company-sitemap.xml"
+    ],
+    "llms_txt": true,
+    "http_redirects_to_https": true,
+    "ai_crawler_access": {
+      "GPTBot": "allowed (via GPTBot)",
+      "OAI-SearchBot": "allowed (via *)",
+      "ChatGPT-User": "allowed (via *)",
+      "ClaudeBot": "allowed (via *)",
+      "Claude-SearchBot": "allowed (via *)",
+      "PerplexityBot": "allowed (via PerplexityBot)",
+      "Google-Extended": "allowed (via Google-Extended)",
+      "Applebot-Extended": "allowed (via *)",
+      "CCBot": "allowed (via CCBot)",
+      "Bytespider": "allowed (via *)"
+    },
+    "sitemap_url_count": 46,
+    "duplicate_titles": [],
+    "duplicate_descriptions": [],
+    "non_200_pages": []
+  },
+  "pages": [
+    {
+      "url": "https://www.uplers.com/",
+      "status": 200,
+      "load_ms": 124,
+      "title": "Hire Software Engineers from India | AI Recruitment Partner",
+      "title_len": 59,
+      "meta_description": "Uplers connects startups and scaling tech teams with top talent from India through AI & Human Intelligence. Get matched faster and hire with confidence.",
+      "desc_len": 152,
+      "h1": [
+        "Hire Top Talents Quickly with AI & Human Intelligence"
+      ],
+      "h2_count": 5,
+      "h2": [
+        "Hire in 4 Easy Steps",
+        "Everything you need to Hire with Confidence",
+        "Why Uplers is the Better Choice for Tech Companies",
+        "Finding top talent from India is like finding a needle in a haystack.",
+        "Finding top talent from India is like finding a needle in a haystack."
+      ],
+      "word_count": 1611,
+      "canonical": "https://www.uplers.com/",
+      "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "images": 135,
+      "images_missing_alt": 14,
+      "missing_alt_samples": [
+        "https://d233vxkpujhe36.cloudfront.net/images/home/color-logo/Hackerrank-logo-400",
+        "https://d233vxkpujhe36.cloudfront.net/images/home/color-logo/airbnb-logo-400w.pn",
+        "https://d233vxkpujhe36.cloudfront.net/images/home/color-logo/Darwinbox-logo-400w",
+        "https://d233vxkpujhe36.cloudfront.net/images/home/color-logo/Gitlab-logo-400w.pn",
+        "https://d233vxkpujhe36.cloudfront.net/images/home/color-logo/tripadvisor-19-3-40"
+      ],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 55,
+      "external_links": 15,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "14 images without alt text"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    },
+    {
+      "url": "https://www.uplers.com/case-studies/catherine-hamlin/",
+      "status": 200,
+      "load_ms": 1306,
+      "title": "Catherine Hamlin - Uplers",
+      "title_len": 25,
+      "meta_description": "An uber case study of Catherine Hamlin Foundation and how our team at Uplers helped achieve increase in spend and revenue with successful campaign management. Read the case study now!",
+      "desc_len": 183,
+      "h1": [
+        "Discover How Uplers Helped Catherine Hamlin Foundation Achieve Increase in Spend and Revenue Using Campaign Strategies"
+      ],
+      "h2_count": 8,
+      "h2": [
+        "About Catherine Hamlin Fistula Foundation",
+        "Their Objective",
+        "The Challenges",
+        "Uplers’ Strategy",
+        "Results",
+        "Get profiles from 1M+ talent network",
+        "Finding top talent from India is like finding a needle in a haystack.",
+        "Discover handpicked, vetted talents."
+      ],
+      "word_count": 905,
+      "canonical": "https://www.uplers.com/case-studies/catherine-hamlin/",
+      "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "images": 73,
+      "images_missing_alt": 29,
+      "missing_alt_samples": [
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/case-studies/cathe",
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/case-studies/cathe",
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 49,
+      "external_links": 11,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 25 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 183 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "29 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://www.uplers.com/privacy-policy/",
+      "status": 200,
+      "load_ms": 1211,
+      "title": "Privacy Policy - Uplers",
+      "title_len": 23,
+      "meta_description": "Our Privacy policy and NDA Term - Uplers",
+      "desc_len": 40,
+      "h1": [
+        "Uplers Legal Information"
+      ],
+      "h2_count": 3,
+      "h2": [
+        "Get profiles from 1M+ talent network",
+        "Finding top talent from India is like finding a needle in a haystack.",
+        "Discover handpicked, vetted talents."
+      ],
+      "word_count": 6445,
+      "canonical": "https://www.uplers.com/privacy-policy/",
+      "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "images": 45,
+      "images_missing_alt": 15,
+      "missing_alt_samples": [
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/linkedin",
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/x.png",
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 48,
+      "external_links": 10,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 23 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 40 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "15 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://www.uplers.com/blog/",
+      "status": 200,
+      "load_ms": 154,
+      "title": "Best Tips to Hire Engineers for Startups & Founders",
+      "title_len": 51,
+      "meta_description": "Explore practical hiring tips for startups and founders, from finding and evaluating engineers to building high-performing teams and scaling your workforce globally.",
+      "desc_len": 165,
+      "h1": [
+        "Insights & Innovations in AI-Driven Startup Hiring"
+      ],
+      "h2_count": 1,
+      "h2": [
+        "Finding top talent from India is like finding a needle in a haystack."
+      ],
+      "word_count": 79,
+      "canonical": "https://www.uplers.com/blog/",
+      "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "images": 11,
+      "images_missing_alt": 7,
+      "missing_alt_samples": [
+        "https://d233vxkpujhe36.cloudfront.net/images/v2/social/linkedin.png",
+        "https://d233vxkpujhe36.cloudfront.net/images/v2/social/x.png",
+        "https://d233vxkpujhe36.cloudfront.net/images/v2/social/insta.png",
+        "https://d233vxkpujhe36.cloudfront.net/images/v2/social/youtube.png",
+        "https://d233vxkpujhe36.cloudfront.net/images/v2/ratings/linkedin-icon.png"
+      ],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 49,
+      "external_links": 10,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Meta description length 165 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "7 images without alt text"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 79 words"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    },
+    {
+      "url": "https://www.uplers.com/talent/faqs/",
+      "status": 200,
+      "load_ms": 1209,
+      "title": "FAQs - Uplers",
+      "title_len": 13,
+      "meta_description": "Get clarity on career opportunities, benefits, and application process. Find answers to your questions and embark on your Uplers journey today!",
+      "desc_len": 143,
+      "h1": [
+        "How can we help you?"
+      ],
+      "h2_count": 3,
+      "h2": [
+        "Get profiles from 1M+ talent network",
+        "Finding top talent from India is like finding a needle in a haystack.",
+        "Discover handpicked, vetted talents."
+      ],
+      "word_count": 1744,
+      "canonical": "https://www.uplers.com/talent/faqs/",
+      "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "images": 21,
+      "images_missing_alt": 8,
+      "missing_alt_samples": [
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/linkedin",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/x.png",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/insta.pn",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/youtube.",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/ratings/linkedi"
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 49,
+      "external_links": 10,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 13 (aim 30-60)"
+        },
+        {
+          "severity": "medium",
+          "issue": "8 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://www.uplers.com/talent/resources/",
+      "status": 200,
+      "load_ms": 1303,
+      "title": "Resources - Uplers",
+      "title_len": 18,
+      "meta_description": "Follow our resource section exclusively for remote professionals to check useful tips, industry insights, talent success stories and more!",
+      "desc_len": 138,
+      "h1": [
+        "Opening doors to remote job opportunities for Indian talents."
+      ],
+      "h2_count": 4,
+      "h2": [
+        "Our Blog",
+        "Get profiles from 1M+ talent network",
+        "Finding top talent from India is like finding a needle in a haystack.",
+        "Discover handpicked, vetted talents."
+      ],
+      "word_count": 751,
+      "canonical": "https://www.uplers.com/talent/resources/",
+      "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "images": 38,
+      "images_missing_alt": 11,
+      "missing_alt_samples": [
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/talent-resources.p",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/logos/mainlogo.svg",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/loader.png",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/linkedin",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/x.png"
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 62,
+      "external_links": 10,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 18 (aim 30-60)"
+        },
+        {
+          "severity": "medium",
+          "issue": "11 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://www.uplers.com/case-studies/brill-media/",
+      "status": 200,
+      "load_ms": 1205,
+      "title": "Uplers Facilitates Brill Media In Hiring Their Perfect Talents",
+      "title_len": 62,
+      "meta_description": "Find out how Uplers found the perfect match for Brill Media in the shortest time.",
+      "desc_len": 81,
+      "h1": [
+        "Uplers Helped Brill Media With Prevetted 9 Talents To Match The Fast-paced Advertising World"
+      ],
+      "h2_count": 7,
+      "h2": [
+        "About",
+        "Problem Statement",
+        "Solutions",
+        "Outcome",
+        "Get profiles from 1M+ talent network",
+        "Finding top talent from India is like finding a needle in a haystack.",
+        "Discover handpicked, vetted talents."
+      ],
+      "word_count": 991,
+      "canonical": "https://www.uplers.com/case-studies/brill-media/",
+      "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "images": 81,
+      "images_missing_alt": 15,
+      "missing_alt_samples": [
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/linkedin",
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/x.png",
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "ImageObject",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 49,
+      "external_links": 10,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 62 (aim 30-60)"
+        },
+        {
+          "severity": "medium",
+          "issue": "15 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://www.uplers.com/case-studies/incubeta/",
+      "status": 200,
+      "load_ms": 1264,
+      "title": "Incubeta Finds the Right Talents with Uplers",
+      "title_len": 44,
+      "meta_description": "Learn how Uplers helped Incubeta find their idol team members from the Indian talent ecosystem.",
+      "desc_len": 95,
+      "h1": [
+        "Incubeta Finds the Right Talents for their Advertising Services with Uplers"
+      ],
+      "h2_count": 7,
+      "h2": [
+        "About",
+        "Problem Statement",
+        "Solutions",
+        "Outcome",
+        "Get profiles from 1M+ talent network",
+        "Finding top talent from India is like finding a needle in a haystack.",
+        "Discover handpicked, vetted talents."
+      ],
+      "word_count": 873,
+      "canonical": "https://www.uplers.com/case-studies/incubeta/",
+      "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+      "images": 81,
+      "images_missing_alt": 15,
+      "missing_alt_samples": [
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/linkedin",
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "https://www.uplers.com/wp-content/themes/uplers/assets/images/v2/social/x.png",
+        "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "ImageObject",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 49,
+      "external_links": 10,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "15 images without alt text"
+        }
+      ]
+    }
+  ]
+}

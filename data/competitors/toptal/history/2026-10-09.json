@@ -1,0 +1,27 @@
+{
+  "name": "Toptal",
+  "first_run": true,
+  "page_changes": [],
+  "errors": [],
+  "sitemap_size": 0,
+  "baseline": {
+    "https://www.toptal.com/": {
+      "title": "Toptal - Hire Freelance Talent from the Top 3%",
+      "h1": [
+        "Hire the Top 3% of Freelance Talent ®"
+      ],
+      "h2": [
+        "High-impact Solutions Executed by World-class Leadership and Talent",
+        "Leverage World-class Talent",
+        "Toptal Ranked #1 Most Reliable Professional Services Company in America",
+        "Hiring Made Easy",
+        "Collaborations With Leading Brands",
+        "Explore Trending Toptal Publications",
+        "Build Amazing Teams, On Demand",
+        "Meet Talent in Our Network",
+        "Explore Our Consulting & Services",
+        "Top Talent from Leading AI Companies"
+      ]
+    }
+  }
+}

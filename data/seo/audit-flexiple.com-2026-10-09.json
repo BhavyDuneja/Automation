@@ -1,0 +1,437 @@
+{
+  "site": "https://flexiple.com",
+  "date": "2026-10-09",
+  "site_checks": {
+    "robots_txt": true,
+    "sitemaps_declared": [
+      "https://flexiple.com/sitemap-index.xml"
+    ],
+    "llms_txt": false,
+    "http_redirects_to_https": true,
+    "ai_crawler_access": {
+      "GPTBot": "allowed except /pitch-deck, /deck/, /component-library/ (via GPTBot)",
+      "OAI-SearchBot": "allowed except /pitch-deck, /deck/, /component-library/ (via OAI-SearchBot)",
+      "ChatGPT-User": "allowed except /pitch-deck, /deck/, /component-library/ (via ChatGPT-User)",
+      "ClaudeBot": "allowed except /pitch-deck, /deck/, /component-library/ (via ClaudeBot)",
+      "Claude-SearchBot": "allowed except /pitch-deck, /deck/, /component-library/ (via Claude-SearchBot)",
+      "PerplexityBot": "allowed except /pitch-deck, /deck/, /component-library/ (via PerplexityBot)",
+      "Google-Extended": "allowed except /pitch-deck, /deck/, /component-library/ (via Google-Extended)",
+      "Applebot-Extended": "allowed except /pitch-deck, /deck/, /component-library/ (via Applebot-Extended)",
+      "CCBot": "allowed except /pitch-deck, /deck/, /component-library/ (via CCBot)",
+      "Bytespider": "allowed except /pitch-deck, /deck/, /component-library/ (via Bytespider)"
+    },
+    "sitemap_url_count": 3526,
+    "duplicate_titles": [],
+    "duplicate_descriptions": [],
+    "non_200_pages": []
+  },
+  "pages": [
+    {
+      "url": "https://flexiple.com/",
+      "status": 200,
+      "load_ms": 275,
+      "title": "Build Your Offshore India Team in Weeks | Flexiple",
+      "title_len": 50,
+      "meta_description": "Flexiple finds talent, handles payroll and compliance, and gets your offshore India team shipping code in weeks, not months.",
+      "desc_len": 124,
+      "h1": [
+        "Your offshore India team, built in weeks, not months."
+      ],
+      "h2_count": 12,
+      "h2": [
+        "From Series A startups to Fortune 500 companies",
+        "Everyone's hiring in India. But only a few are doing it without the chaos.",
+        "Meet Flexiple: the one partner that handles it all.",
+        "We don't disappear after the hire.",
+        "Three ways to build with us.",
+        "How we find top performers for you?",
+        "Roles We Hire For.",
+        "How we build your team in India.",
+        "Why companies switch to Flexiple?",
+        "How companies build their India teams with Flexiple.",
+        "Frequently asked questions.",
+        "Ready to set up your offshore team?"
+      ],
+      "word_count": 2326,
+      "canonical": "https://flexiple.com/",
+      "meta_robots": null,
+      "images": 70,
+      "images_missing_alt": 2,
+      "missing_alt_samples": [
+        "/_astro/cta-wires-mob.D67a0AqX_18QEOI.webp",
+        "/_astro/cta-wires.Gcam7bZy_Z1fHSbG.webp"
+      ],
+      "schema_types": [
+        "Organization",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 56,
+      "external_links": 8,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "2 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://flexiple.com/about",
+      "status": 200,
+      "load_ms": 272,
+      "title": "About Us | Offshore Teams and GCCs in India | Flexiple",
+      "title_len": 54,
+      "meta_description": "A decade building offshore teams and GCCs in India: from a first contractor to your own entity, one partner throughout. 100+ teams built worldwide.",
+      "desc_len": 147,
+      "h1": [
+        "A decade building offshore teams and GCCs in India"
+      ],
+      "h2_count": 4,
+      "h2": [
+        "We didn't start as everything. We compounded into it.",
+        "Not a database. Not an agency. Not an EOR.",
+        "Operators who've built this for a decade, not middlemen",
+        "Your India team. Not someday, this quarter."
+      ],
+      "word_count": 696,
+      "canonical": "https://flexiple.com/about/",
+      "meta_robots": null,
+      "images": 6,
+      "images_missing_alt": 2,
+      "missing_alt_samples": [
+        "/_astro/cta-wires-mob.D67a0AqX_18QEOI.webp",
+        "/_astro/cta-wires.Gcam7bZy_Z1fHSbG.webp"
+      ],
+      "schema_types": [
+        "Organization",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 54,
+      "external_links": 14,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "2 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://flexiple.com/alternatives",
+      "status": 200,
+      "load_ms": 272,
+      "title": "Hiring Platform Alternatives & Competitors Compared",
+      "title_len": 51,
+      "meta_description": "Compare 78 developer hiring platforms and their alternatives on talent region, vetting, engagement and pricing, each figure sourced to published terms.",
+      "desc_len": 151,
+      "h1": [
+        "Hiring platform alternatives, compared with the receipts"
+      ],
+      "h2_count": 5,
+      "h2": [
+        "Compare any two platforms",
+        "Every platform we track",
+        "Every head-to-head we publish",
+        "Flexiple's India talent pool",
+        "Ready to set up your offshore team?"
+      ],
+      "word_count": 6192,
+      "canonical": "https://flexiple.com/alternatives",
+      "meta_robots": null,
+      "images": 76,
+      "images_missing_alt": 2,
+      "missing_alt_samples": [
+        "/_astro/cta-wires-mob.D67a0AqX_18QEOI.webp",
+        "/_astro/cta-wires.Gcam7bZy_Z1fHSbG.webp"
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "CollectionPage",
+        "ItemList",
+        "Organization",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 184,
+      "external_links": 8,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "2 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://flexiple.com/alternatives/adevait",
+      "status": 200,
+      "load_ms": 289,
+      "title": "Adeva Alternatives & Competitors for Offshore Teams",
+      "title_len": 51,
+      "meta_description": "Adeva alternatives compared: other vetted talent networks and Flexiple's India talent network, side by side on pricing, vetting and engagement.",
+      "desc_len": 143,
+      "h1": [
+        "Adeva Alternatives & Competitors for Offshore Teams"
+      ],
+      "h2_count": 12,
+      "h2": [
+        "Adeva at a glance",
+        "Adeva vs Flexiple",
+        "Adeva alternatives and competitors",
+        "What each platform publishes",
+        "Switching from Adeva",
+        "Flexiple's India talent pool",
+        "Compare any two platforms",
+        "Why teams pick Flexiple",
+        "Teams we've built for",
+        "From teams that hired through Flexiple",
+        "Sources",
+        "Ready to set up your offshore team?"
+      ],
+      "word_count": 3735,
+      "canonical": "https://flexiple.com/alternatives/adevait",
+      "meta_robots": null,
+      "images": 27,
+      "images_missing_alt": 5,
+      "missing_alt_samples": [
+        "/_astro/favicon-mark.THZBt2we_20Az0M.webp",
+        "/_astro/favicon-mark.THZBt2we_8y3ht.webp",
+        "/_astro/favicon-mark.THZBt2we_ZxslGl.webp",
+        "/_astro/cta-wires-mob.D67a0AqX_18QEOI.webp",
+        "/_astro/cta-wires.Gcam7bZy_Z1fHSbG.webp"
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 68,
+      "external_links": 22,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "5 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://flexiple.com/alternatives/andela",
+      "status": 200,
+      "load_ms": 291,
+      "title": "Andela Alternatives & Competitors for Offshore Teams",
+      "title_len": 52,
+      "meta_description": "Andela alternatives compared: other vetted talent networks and Flexiple's India talent network, side by side on pricing, vetting and engagement.",
+      "desc_len": 144,
+      "h1": [
+        "Andela Alternatives & Competitors for Offshore Teams"
+      ],
+      "h2_count": 15,
+      "h2": [
+        "Andela at a glance",
+        "Andela vs Flexiple",
+        "Andela alternatives and competitors",
+        "What each platform publishes",
+        "What review sites say",
+        "What Andela publishes about itself",
+        "Switching from Andela",
+        "Flexiple's India talent pool",
+        "Compare any two platforms",
+        "Why teams pick Flexiple",
+        "Teams we've built for",
+        "From teams that hired through Flexiple"
+      ],
+      "word_count": 4534,
+      "canonical": "https://flexiple.com/alternatives/andela",
+      "meta_robots": null,
+      "images": 28,
+      "images_missing_alt": 5,
+      "missing_alt_samples": [
+        "/_astro/favicon-mark.THZBt2we_20Az0M.webp",
+        "/_astro/favicon-mark.THZBt2we_8y3ht.webp",
+        "/_astro/favicon-mark.THZBt2we_ZxslGl.webp",
+        "/_astro/cta-wires-mob.D67a0AqX_18QEOI.webp",
+        "/_astro/cta-wires.Gcam7bZy_Z1fHSbG.webp"
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 70,
+      "external_links": 29,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "5 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://flexiple.com/alternatives/apna",
+      "status": 200,
+      "load_ms": 292,
+      "title": "apna Alternatives & Competitors for Offshore Teams",
+      "title_len": 50,
+      "meta_description": "apna alternatives compared: other job boards and Flexiple's India talent network, side by side on pricing, vetting and engagement.",
+      "desc_len": 130,
+      "h1": [
+        "apna Alternatives & Competitors for Offshore Teams"
+      ],
+      "h2_count": 12,
+      "h2": [
+        "apna at a glance",
+        "apna vs Flexiple",
+        "apna alternatives and competitors",
+        "What each platform publishes",
+        "Switching from apna",
+        "Flexiple's India talent pool",
+        "Compare any two platforms",
+        "Why teams pick Flexiple",
+        "Teams we've built for",
+        "From teams that hired through Flexiple",
+        "Sources",
+        "Ready to set up your offshore team?"
+      ],
+      "word_count": 3758,
+      "canonical": "https://flexiple.com/alternatives/apna",
+      "meta_robots": null,
+      "images": 28,
+      "images_missing_alt": 5,
+      "missing_alt_samples": [
+        "/_astro/favicon-mark.THZBt2we_20Az0M.webp",
+        "/_astro/favicon-mark.THZBt2we_8y3ht.webp",
+        "/_astro/favicon-mark.THZBt2we_ZxslGl.webp",
+        "/_astro/cta-wires-mob.D67a0AqX_18QEOI.webp",
+        "/_astro/cta-wires.Gcam7bZy_Z1fHSbG.webp"
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 68,
+      "external_links": 25,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "5 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://flexiple.com/alternatives/arc",
+      "status": 200,
+      "load_ms": 291,
+      "title": "Arc.dev Alternatives & Competitors for Offshore Teams",
+      "title_len": 53,
+      "meta_description": "Arc.dev alternatives compared: other vetted talent networks and Flexiple's India talent network, side by side on pricing, vetting and engagement.",
+      "desc_len": 145,
+      "h1": [
+        "Arc.dev Alternatives & Competitors for Offshore Teams"
+      ],
+      "h2_count": 15,
+      "h2": [
+        "Arc.dev at a glance",
+        "Arc.dev vs Flexiple",
+        "Arc.dev alternatives and competitors",
+        "What each platform publishes",
+        "What review sites say",
+        "What Arc.dev publishes about itself",
+        "Switching from Arc.dev",
+        "Flexiple's India talent pool",
+        "Compare any two platforms",
+        "Why teams pick Flexiple",
+        "Teams we've built for",
+        "From teams that hired through Flexiple"
+      ],
+      "word_count": 4822,
+      "canonical": "https://flexiple.com/alternatives/arc",
+      "meta_robots": null,
+      "images": 28,
+      "images_missing_alt": 5,
+      "missing_alt_samples": [
+        "/_astro/favicon-mark.THZBt2we_20Az0M.webp",
+        "/_astro/favicon-mark.THZBt2we_8y3ht.webp",
+        "/_astro/favicon-mark.THZBt2we_ZxslGl.webp",
+        "/_astro/cta-wires-mob.D67a0AqX_18QEOI.webp",
+        "/_astro/cta-wires.Gcam7bZy_Z1fHSbG.webp"
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "FAQPage",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 70,
+      "external_links": 31,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "5 images without alt text"
+        }
+      ]
+    },
+    {
+      "url": "https://flexiple.com/alternatives/arcanys",
+      "status": 200,
+      "load_ms": 289,
+      "title": "Arcanys Alternatives & Competitors for Offshore Teams",
+      "title_len": 53,
+      "meta_description": "Arcanys alternatives compared: other development agencies and Flexiple's India talent network, side by side on pricing, vetting and engagement.",
+      "desc_len": 143,
+      "h1": [
+        "Arcanys Alternatives & Competitors for Offshore Teams"
+      ],
+      "h2_count": 12,
+      "h2": [
+        "Arcanys at a glance",
+        "Arcanys vs Flexiple",
+        "Arcanys alternatives and competitors",
+        "What each platform publishes",
+        "Switching from Arcanys",
+        "Flexiple's India talent pool",
+        "Compare any two platforms",
+        "Why teams pick Flexiple",
+        "Teams we've built for",
+        "From teams that hired through Flexiple",
+        "Sources",
+        "Ready to set up your offshore team?"
+      ],
+      "word_count": 3764,
+      "canonical": "https://flexiple.com/alternatives/arcanys",
+      "meta_robots": null,
+      "images": 28,
+      "images_missing_alt": 5,
+      "missing_alt_samples": [
+        "/_astro/favicon-mark.THZBt2we_20Az0M.webp",
+        "/_astro/favicon-mark.THZBt2we_8y3ht.webp",
+        "/_astro/favicon-mark.THZBt2we_ZxslGl.webp",
+        "/_astro/cta-wires-mob.D67a0AqX_18QEOI.webp",
+        "/_astro/cta-wires.Gcam7bZy_Z1fHSbG.webp"
+      ],
+      "schema_types": [
+        "BreadcrumbList",
+        "Organization",
+        "WebPage",
+        "WebSite"
+      ],
+      "og_title": true,
+      "internal_links": 68,
+      "external_links": 21,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "5 images without alt text"
+        }
+      ]
+    }
+  ]
+}

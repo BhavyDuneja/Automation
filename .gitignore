@@ -1,0 +1,7 @@
+.env
+secrets/
+data/logs/
+__pycache__/
+*.log
+# Holds real tokens right now; keep it out of git until it is a clean template again.
+.env.example

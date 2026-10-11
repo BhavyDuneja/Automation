@@ -1,0 +1,11 @@
+{
+  "name": "Virtual Employee",
+  "first_run": false,
+  "page_changes": [],
+  "errors": [
+    "https://www.virtualemployee.com/: HTTPSConnectionPool(host='www.virtualemployee.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_E"
+  ],
+  "new_urls": [],
+  "removed_urls": [],
+  "sitemap_size": 914
+}

@@ -1,0 +1,7 @@
+requests>=2.31
+beautifulsoup4>=4.12
+PyYAML>=6.0
+# Instagram: converts images to JPEG before hosting
+Pillow>=10.0
+# Search Console + GA4 (scripts/google_data.py)
+google-auth>=2.29

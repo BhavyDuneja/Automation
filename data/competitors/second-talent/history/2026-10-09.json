@@ -1,0 +1,70 @@
+{
+  "name": "Second Talent",
+  "first_run": true,
+  "page_changes": [],
+  "errors": [],
+  "sitemap_size": 1206,
+  "baseline": {
+    "https://www.secondtalent.com/": {
+      "title": "Second Talent - Hire AI-Native Engineers from Asia",
+      "h1": [
+        "Hire AI-Native Developers you can trust."
+      ],
+      "h2": [
+        "Agent-ready talent at $103K a year less.",
+        "How Second Talent works",
+        "Outcomes That Matter",
+        "Why Second Talent?",
+        "Customer Speaks",
+        "Hire Pre-vetted Developers in 24hrs",
+        "Latest Insights",
+        "Asia's top engineers, fully compliant, matched in 24 hours."
+      ]
+    },
+    "https://www.secondtalent.com/cost-to-hire/": {
+      "title": "Cost to Hire a Software Developer: Freelance Rates by Country - 2026",
+      "h1": [
+        "Cost to hire a software developer"
+      ],
+      "h2": [
+        "Rates by stack",
+        "Rates by market",
+        "Offshore software development rates by country",
+        "Where these numbers come from",
+        "Citing this page",
+        "Questions buyers ask",
+        "Hiring rather than researching?"
+      ]
+    },
+    "https://www.secondtalent.com/alternatives/": {
+      "title": "Top 25 Platforms to Hire Vetted Developers Compared - 2026 - Second Talent",
+      "h1": [
+        "Top 25 Platforms to Hire Vetted Developers Compared"
+      ],
+      "h2": [
+        "Developer Marketplaces",
+        "EOR & Payroll Platforms",
+        "Head-to-Head Comparisons",
+        "Need to hire instead of read? We can help."
+      ]
+    },
+    "https://www.secondtalent.com/faqs/": {
+      "title": "Frequently Asked Questions (FAQ) - Second Talent",
+      "h1": [
+        "Frequently Asked Questions (FAQ)"
+      ],
+      "h2": [
+        "Getting started",
+        "Second Talent platform",
+        "Hiring & vetting process",
+        "Pricing & contracts",
+        "Employer of Record (EOR)",
+        "AI-native talent",
+        "Trust & security",
+        "Productivity & performance",
+        "Compliance & legal",
+        "International expansion"
+      ]
+    }
+  }
+}

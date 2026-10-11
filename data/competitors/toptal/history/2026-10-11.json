@@ -1,0 +1,66 @@
+{
+  "name": "Toptal",
+  "first_run": false,
+  "page_changes": [
+    {
+      "url": "https://www.toptal.com/",
+      "text_diff": [
+        "-Simon Geisler",
+        "-Verified Expert",
+        "-Engineering",
+        "-AI Researcher",
+        "-Previously at",
+        "-Simon Geisler",
+        "-Verified Expert",
+        "-Engineering",
+        "-AI Researcher",
+        "+Cheryl Da Silva",
+        "+Verified Expert",
+        "+Marketing",
+        "+Marketing Strategist",
+        "+Previously at",
+        "+Cheryl Da Silva",
+        "+Verified Expert",
+        "+Marketing",
+        "+Marketing Strategist",
+        "+Previously at",
+        "+Jeremy Santy",
+        "+Verified Expert",
+        "+Design",
+        "+Product Designer",
+        "+Previously at",
+        "+Jonah Elbaz",
+        "+Verified Expert",
+        "+Engineering",
+        "+React Developer",
+        "+Previously at",
+        "+Jakub Rehor",
+        "+Verified Expert",
+        "+Management Consulting",
+        "+Financial Analyst",
+        "+Gabriel de Souza",
+        "+Verified Expert",
+        "+Engineering",
+        "+Principal AI Engineer",
+        "+Previously at",
+        "+Erita Skendaj",
+        "+Verified Expert"
+      ],
+      "text_diff_truncated": true
+    },
+    {
+      "url": "https://www.toptal.com/faq",
+      "text_diff": [
+        "+Oracle Cloud Consultants"
+      ],
+      "text_diff_truncated": false
+    }
+  ],
+  "errors": [],
+  "new_urls": [
+    "https://www.toptal.com/services/management-consulting/business-continuity-consulting",
+    "https://www.toptal.com/services/technology-services/ai-automation-services"
+  ],
+  "removed_urls": [],
+  "sitemap_size": 334
+}

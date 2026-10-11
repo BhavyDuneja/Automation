@@ -1,0 +1,63 @@
+# Competitors tracked daily by scripts/competitor_watch.py and analysed by the skills.
+# confirmed: false = a candidate guessed from the market; run /competitive-brief to validate,
+# then set confirmed: true (or track: false to stop watching it).
+# pages: paths snapshotted daily (keep it to 2-5 high-signal pages: home, pricing, how-it-works, services).
+# sitemap: optional override; default <domain>/sitemap.xml — new URLs there = new pages/blog posts.
+
+competitors:
+  - name: Uplers
+    domain: https://www.uplers.com
+    pages: ["/", "/pricing/", "/contract-talent/", "/full-service-hiring/"]
+    linkedin: https://www.linkedin.com/company/weareuplers
+    instagram: https://www.instagram.com/weareuplers
+    confirmed: true
+    track: true
+    notes: "India-based AI-led hiring platform (engineering, product, growth roles). Hire = 10-15% of CTC; contract from $2,500/mo with salary + fee in one rate and a 6-month minimum (pricing page, 2026-10-09)."
+
+  - name: Toptal
+    domain: https://www.toptal.com
+    pages: ["/", "/faq", "/teams", "/hireglobal"]
+    sitemap: https://www.toptal.com/sitemap/services.xml
+    linkedin: https://www.linkedin.com/company/toptal
+    instagram: https://www.instagram.com/toptal/
+    confirmed: true
+    track: true
+    notes: "Premium global network (top 3% claim) across design, marketing, finance, product and engineering. 24h match, trial up to 2 weeks, no published rates. Adding consulting services and HireGlobal EOR."
+
+  - name: Turing
+    domain: https://www.turing.com
+    pages: ["/"]
+    linkedin: https://www.linkedin.com/company/turingcom/
+    instagram: ""
+    confirmed: true
+    track: false
+    notes: "Dropped 2026-10-09: homepage now recruits experts for AI-lab training work, blocks our snapshot script (Incapsula), little overlap with SMB expert buyers. Re-check by search quarterly."
+
+  - name: Flexiple
+    domain: https://flexiple.com
+    pages: ["/", "/contractor", "/managed-teams", "/gcc"]
+    sitemap: https://flexiple.com/sitemap-index.xml
+    linkedin: https://www.linkedin.com/company/flexiple
+    instagram: https://www.instagram.com/flexiple
+    confirmed: true
+    track: true
+    notes: "Closest model to ours: Managed Teams = $299/person/month + salary at cost, Flexiple is the employer (India only). Also contractors (no lock-in) and GCC setup. Runs /compare SEO pages."
+
+  - name: Virtual Employee
+    domain: https://www.virtualemployee.com
+    pages: ["/", "/hire-remote-staff", "/hire-virtual-staff", "/faqs"]
+    sitemap: https://www.virtualemployee.com/sitemap_index.xml
+    linkedin: https://www.linkedin.com/company/virtual-employee-pvt--ltd
+    instagram: https://www.instagram.com/virtualemployee_india/
+    confirmed: true
+    track: true
+    notes: "Noida remote staffing, 150+ role categories (finance, legal process outsourcing, marketing, engineering). No public pricing. Trustpilot 4.8 (268 reviews); candidate vetting is the main complaint."
+
+  - name: Second Talent
+    domain: https://www.secondtalent.com
+    pages: ["/", "/cost-to-hire/", "/alternatives/", "/faqs/"]
+    linkedin: https://www.linkedin.com/company/second-talent/
+    instagram: https://www.instagram.com/secondtalent
+    confirmed: true
+    track: true
+    notes: "APAC 'AI-native developer' staffing (engineering only, India included). Ranks first for 'Uplers alternatives' via programmatic /alternatives pages. Pricing unpublished on homepage."

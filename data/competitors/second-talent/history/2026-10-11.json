@@ -1,0 +1,139 @@
+{
+  "name": "Second Talent",
+  "first_run": false,
+  "page_changes": [
+    {
+      "url": "https://www.secondtalent.com/",
+      "title": {
+        "before": "Second Talent - Hire AI-Native Engineers from Asia",
+        "after": "Second Talent - Hire AI-Native Developers for US Startups"
+      },
+      "meta_description": {
+        "before": "Hire AI-Native Engineers and Specialists in Asia with Second Talent, the tech talent platform for global companies. No cost until you hire.",
+        "after": "Second Talent helps top US startups hire vetted AI-Native Engineers and Specialists from Asia. No cost until you hire."
+      },
+      "h1": {
+        "before": [
+          "Hire AI-Native Developers you can trust."
+        ],
+        "after": [
+          "Hire AI-Native Engineers trusted by SF’s top startups"
+        ]
+      },
+      "text_diff": [
+        "-Second Talent - Hire AI-Native Engineers from Asia",
+        "+Second Talent - Hire AI-Native Developers for US Startups",
+        "+Release Manager vs DevOps Engineer:…",
+        "+AI Data Annotator vs AI…",
+        "+Database Administrator vs Database Manager:…",
+        "+Automation Engineer vs AI Agent…",
+        "-10 Best Headhunting Agencies in…",
+        "-10 Best Headhunting Agencies in…",
+        "-Top 10 Web Development Companies…",
+        "-Principal Engineer vs Staff Engineer…",
+        "-Hire AI-Native Developers",
+        "-you can trust.",
+        "-Your roadmap shouldn't wait on hiring. Get developers who ship with AI agents from week one.",
+        "+Hire",
+        "+AI-Native",
+        "+Engineers",
+        "+trusted by SF’s top startups",
+        "+Your roadmap shouldn't wait on hiring. Get developers who ship with AI agents from week one. Starts at $29/Hour.",
+        "-Oct 8, 2026",
+        "-Top 30 Dart Coding Challenges with Solutions",
+        "+Oct 10, 2026",
+        "+Top 30 React Native Interview Questions and Answers",
+        "-Oct 8, 2026",
+        "-How to Hire Developers in the Philippines from Australia (2026)",
+        "-Blog",
+        "-Oct 8, 2026",
+        "-Top 20 Tech Companies and Startups in Hong Kong [2026]",
+        "-Blog",
+        "-Oct 8, 2026",
+        "-10 Best Headhunting Agencies in Hong Kong [2026]",
+        "+Oct 10, 2026",
+        "+Release Manager vs DevOps Engineer: Change Control, CI/CD and Pay Compared",
+        "+Interview Guide",
+        "+Oct 10, 2026",
+        "+Top 30 Ember.js Interview Questions and Answers",
+        "+Interview Guide",
+        "+Oct 10, 2026",
+        "+Top 30 AWS Interview Questions for Java Developers",
+        "-The tech talent platform for hiring vetted, AI-Native Engineers and Specialists in 24 hours. Fully compliant. Zero HR overhead.",
+        "+Second Talent helps top US startups hire vetted AI-Native Engineers and Specialists from Asia. Matched in 24 hours. Fully compliant. Zero HR overhead."
+      ],
+      "text_diff_truncated": true
+    },
+    {
+      "url": "https://www.secondtalent.com/cost-to-hire/",
+      "text_diff": [
+        "+Release Manager vs DevOps Engineer:…",
+        "+AI Data Annotator vs AI…",
+        "+Database Administrator vs Database Manager:…",
+        "+Automation Engineer vs AI Agent…",
+        "-10 Best Headhunting Agencies in…",
+        "-10 Best Headhunting Agencies in…",
+        "-Top 10 Web Development Companies…",
+        "-Principal Engineer vs Staff Engineer…"
+      ],
+      "text_diff_truncated": false
+    },
+    {
+      "url": "https://www.secondtalent.com/alternatives/",
+      "text_diff": [
+        "+Release Manager vs DevOps Engineer:…",
+        "+AI Data Annotator vs AI…",
+        "+Database Administrator vs Database Manager:…",
+        "+Automation Engineer vs AI Agent…",
+        "-10 Best Headhunting Agencies in…",
+        "-10 Best Headhunting Agencies in…",
+        "-Top 10 Web Development Companies…",
+        "-Principal Engineer vs Staff Engineer…",
+        "-The tech talent platform for hiring vetted, AI-Native Engineers and Specialists in 24 hours. Fully compliant. Zero HR overhead.",
+        "+Second Talent helps top US startups hire vetted AI-Native Engineers and Specialists from Asia. Matched in 24 hours. Fully compliant. Zero HR overhead.",
+        "+Need help?",
+        "+Talk to Second Talent",
+        "-Get on a call with us",
+        "-We have around 10 slots open each day. Pick a time and we will call you at your convenience.",
+        "-WhatsApp us",
+        "-Prefer texting at your own pace? Just hit us up on WhatsApp. We promise no spam and a hassle-free experience.",
+        "+Book a call",
+        "+Pick a time that suits you. Around 10 slots open daily.",
+        "+Chat on WhatsApp",
+        "+Message us at your own pace. No spam.",
+        "+Prefer email?",
+        "+hello@secondtalent.com"
+      ],
+      "text_diff_truncated": false
+    },
+    {
+      "url": "https://www.secondtalent.com/faqs/",
+      "text_diff": [
+        "+Release Manager vs DevOps Engineer:…",
+        "+AI Data Annotator vs AI…",
+        "+Database Administrator vs Database Manager:…",
+        "+Automation Engineer vs AI Agent…",
+        "-10 Best Headhunting Agencies in…",
+        "-10 Best Headhunting Agencies in…",
+        "-Top 10 Web Development Companies…",
+        "-Principal Engineer vs Staff Engineer…",
+        "-Second Talent is a tech talent platform that connects companies with AI-Native Engineers and Specialists from Asia. No cost until you hire.",
+        "+Second Talent helps top US startups hire vetted AI-Native Engineers and Specialists from Asia. No cost until you hire.",
+        "-The tech talent platform for hiring vetted, AI-Native Engineers and Specialists in 24 hours. Fully compliant. Zero HR overhead.",
+        "+Second Talent helps top US startups hire vetted AI-Native Engineers and Specialists from Asia. Matched in 24 hours. Fully compliant. Zero HR overhead."
+      ],
+      "text_diff_truncated": false
+    }
+  ],
+  "errors": [],
+  "new_urls": [
+    "https://www.secondtalent.com/interview-guide/aws-java-developers/",
+    "https://www.secondtalent.com/interview-guide/aws-lambda/",
+    "https://www.secondtalent.com/occupations/ai-data-annotator-vs-ai-evaluator/",
+    "https://www.secondtalent.com/occupations/automation-engineer-vs-ai-agent-developer/",
+    "https://www.secondtalent.com/occupations/database-administrator-vs-database-manager/",
+    "https://www.secondtalent.com/occupations/release-manager-vs-devops-engineer/"
+  ],
+  "removed_urls": [],
+  "sitemap_size": 1212
+}

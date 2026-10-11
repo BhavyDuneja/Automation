@@ -1,0 +1,69 @@
+{
+  "name": "Virtual Employee",
+  "first_run": true,
+  "page_changes": [],
+  "errors": [],
+  "sitemap_size": 914,
+  "baseline": {
+    "https://www.virtualemployee.com/": {
+      "title": "Hire Virtual Employees from India | AI-Enabled Remote Staffing",
+      "h1": [
+        "Hire Virtual Employee For Any Role"
+      ],
+      "h2": [
+        "What Makes Virtual Employee the Better Choice",
+        "Services That You Need"
+      ]
+    },
+    "https://www.virtualemployee.com/hire-remote-staff": {
+      "title": "Hire Remote Staff in India - From $9/Hour",
+      "h1": [
+        "Hire Remote Staff in India"
+      ],
+      "h2": [
+        "Start With a Free Trial",
+        "Build Dedicated Teams for Every Business Function",
+        "Skilled Professionals Driving Consistent Results",
+        "Not Freelancers or Project-Based Outsourcing",
+        "You Also Need the Right Remote Staffing Partner",
+        "Start With a Free Trial",
+        "700+ Verified Client Video Testimonials",
+        "Learn How Companies Build and Scale Remote Teams",
+        "FAQs on Hiring Remote Staff",
+        "Hire Remote Staff in India to Build Scalable Global Teams"
+      ]
+    },
+    "https://www.virtualemployee.com/hire-virtual-staff": {
+      "title": "Hire Virtual Staff in India - From $9/Hour",
+      "h1": [
+        "Hire Virtual Staff in India"
+      ],
+      "h2": [
+        "Start With a Free Trial",
+        "From VA to AI and Everything in Between",
+        "Experienced Professionals Delivering Real Business Impact",
+        "Not Freelancers or Short-Term Outsourcing",
+        "You Also Need a Reliable Virtual Staffing Partner",
+        "Start With a Free Trial",
+        "Trusted by 4500+ Businesses in 48 Countries",
+        "Read Our Blogs on Hiring & Scaling Global Talent",
+        "FAQs on Virtual Staff Hiring",
+        "Hire Virtual Staff in India to Build High-Performing Teams"
+      ]
+    },
+    "https://www.virtualemployee.com/faqs": {
+      "title": "VE FAQs – Frequently Asked Questions",
+      "h1": [
+        "Frequently Asked Questions"
+      ],
+      "h2": [
+        "About Virtual Employee",
+        "Hiring, Resources and Models",
+        "Services, Systems and Supervision",
+        "Working with Virtual Employees",
+        "Clients, Costs and Contracts",
+        "Still Have a Question?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Flexiple",
+  "first_run": true,
+  "page_changes": [],
+  "errors": [],
+  "sitemap_size": 3526,
+  "baseline": {
+    "https://flexiple.com/": {
+      "title": "Build Your Offshore India Team in Weeks | Flexiple",
+      "h1": [
+        "Your offshore India team, built in weeks, not months."
+      ],
+      "h2": [
+        "From Series A startups to Fortune 500 companies",
+        "Everyone's hiring in India. But only a few are doing it without the chaos.",
+        "Meet Flexiple: the one partner that handles it all.",
+        "We don't disappear after the hire.",
+        "Three ways to build with us.",
+        "How we find top performers for you?",
+        "Roles We Hire For.",
+        "How we build your team in India.",
+        "Why companies switch to Flexiple?",
+        "How companies build their India teams with Flexiple."
+      ]
+    },
+    "https://flexiple.com/contractor": {
+      "title": "Contractor | Hire Pre-Vetted India Contractors | Flexiple",
+      "h1": [
+        "You focus on building. We focus on finding the right contractor."
+      ],
+      "h2": [
+        "The fastest-moving teams are already here",
+        "The right contractors change everything.",
+        "Everything we handle, so you don't have to.",
+        "India's largest contractor sourcing network.",
+        "Any role. Any skill. All based in India.",
+        "How CreditBook shipped their invoicing platform in 2 weeks",
+        "How CreditBook shipped their invoicing platform in 2 weeks",
+        "From brief to working together",
+        "Is a contractor right for you?",
+        "Which model fits?"
+      ]
+    },
+    "https://flexiple.com/managed-teams": {
+      "title": "Managed India Teams | We Hire, Employ, and Run | Flexiple",
+      "h1": [
+        "India talent dedicated to you. Employed by us"
+      ],
+      "h2": [
+        "Join the teams already building in India",
+        "Your team. Our payroll.",
+        "From Brief to Working Team",
+        "How CertifyOS built an India team with zero HR overhead.",
+        "How CertifyOS built an India team with zero HR overhead.",
+        "We've run India ops for 100+ teams. Yours is next.",
+        "Is Managed Teams right for you?",
+        "Which model fits?",
+        "How companies build their India teams with Flexiple.",
+        "Frequently asked questions."
+      ]
+    },
+    "https://flexiple.com/gcc": {
+      "title": "GCC | Build Your Own India Entity | Flexiple",
+      "h1": [
+        "Build your India strategy. We make it real."
+      ],
+      "h2": [
+        "The most deliberate GCC builders are already here",
+        "Why the best companies are building in India and owning it.",
+        "Your first 6 months.",
+        "Strategic decisions we help you make.",
+        "We take care of everything it takes to go from zero to operational.",
+        "Flexiple vs. the alternatives.",
+        "The reason most GCCs stall isn't entity setup. It's hiring.",
+        "Is a GCC right for you?",
+        "Which model fits?",
+        "More on GCCs in India"
+      ]
+    }
+  }
+}

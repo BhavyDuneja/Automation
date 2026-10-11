@@ -1,0 +1,386 @@
+{
+  "site": "https://www.toptal.com",
+  "date": "2026-10-09",
+  "site_checks": {
+    "robots_txt": true,
+    "sitemaps_declared": [
+      "https://www.toptal.com/sitemap/master_index.xml"
+    ],
+    "llms_txt": true,
+    "http_redirects_to_https": true,
+    "ai_crawler_access": {
+      "GPTBot": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)",
+      "OAI-SearchBot": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)",
+      "ChatGPT-User": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)",
+      "ClaudeBot": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)",
+      "Claude-SearchBot": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)",
+      "PerplexityBot": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)",
+      "Google-Extended": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)",
+      "Applebot-Extended": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)",
+      "CCBot": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)",
+      "Bytespider": "allowed except /_info.json*, /administrator/, /api/, /attendees, /blackfish/, /blackfish/page_previews/*, /blog/tags/, /clicktale/, /designers/colorfilter?*, /designers/subtlepatterns/patterns/*.zip, /developers/hastebin/*, /disqus_comments.json*, /posts, /signed_in, /track/ (via *)"
+    },
+    "sitemap_url_count": 31620,
+    "duplicate_titles": [],
+    "duplicate_descriptions": [],
+    "non_200_pages": []
+  },
+  "pages": [
+    {
+      "url": "https://www.toptal.com/freelance-jobs/developers/jobs",
+      "status": 200,
+      "load_ms": 581,
+      "title": "Developer Freelance Jobs for World-Class Developers | Toptal®",
+      "title_len": 61,
+      "meta_description": "Join the network and find Developer freelance jobs with top companies and start-ups from around the world. Set your own hours and work flexibly. Apply now.",
+      "desc_len": 155,
+      "h1": [
+        "Freelance Developer Jobs tailored to you"
+      ],
+      "h2_count": 4,
+      "h2": [
+        "Top Trending Developer Jobs",
+        "Top Skills We Need Currently",
+        "Looking for engineering jobs?",
+        "Trusted by Leading Brands and Startups"
+      ],
+      "word_count": 1431,
+      "canonical": "https://www.toptal.com/freelance-jobs/developers/jobs",
+      "meta_robots": null,
+      "images": 26,
+      "images_missing_alt": 3,
+      "missing_alt_samples": [
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi"
+      ],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 174,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 61 (aim 30-60)"
+        },
+        {
+          "severity": "medium",
+          "issue": "3 images without alt text"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toptal.com/freelance-jobs/designers/jobs",
+      "status": 200,
+      "load_ms": 583,
+      "title": "Designer Jobs for World-Class Freelancers | Toptal®",
+      "title_len": 51,
+      "meta_description": "Join the network and find Designer freelance jobs with top companies and start-ups from around the world. Set your own hours and work flexibly. Apply now.",
+      "desc_len": 154,
+      "h1": [
+        "Freelance Designer Jobs tailored to you"
+      ],
+      "h2_count": 2,
+      "h2": [
+        "Looking for design jobs?",
+        "Trusted by Leading Brands and Startups"
+      ],
+      "word_count": 202,
+      "canonical": "https://www.toptal.com/freelance-jobs/designers/jobs",
+      "meta_robots": null,
+      "images": 21,
+      "images_missing_alt": 3,
+      "missing_alt_samples": [
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi"
+      ],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 76,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "3 images without alt text"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 202 words"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toptal.com/freelance-jobs/project-managers/jobs",
+      "status": 200,
+      "load_ms": 587,
+      "title": "Project Manager Jobs for World-Class Freelancers | Toptal®",
+      "title_len": 58,
+      "meta_description": "Join the Toptal network and find Project Manager freelance jobs with top companies and start-ups from around the world.\nSet your own hours and work flexibly. Apply now.",
+      "desc_len": 168,
+      "h1": [
+        "Freelance Project Manager Jobs tailored to you"
+      ],
+      "h2_count": 2,
+      "h2": [
+        "Looking for project management jobs?",
+        "Trusted by Leading Brands and Startups"
+      ],
+      "word_count": 147,
+      "canonical": "https://www.toptal.com/freelance-jobs/project-managers/jobs",
+      "meta_robots": null,
+      "images": 21,
+      "images_missing_alt": 3,
+      "missing_alt_samples": [
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi"
+      ],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 52,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Meta description length 168 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "3 images without alt text"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 147 words"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toptal.com/freelance-jobs/product-managers/jobs",
+      "status": 200,
+      "load_ms": 594,
+      "title": "Product Manager Jobs for World-Class Freelancers | Toptal®",
+      "title_len": 58,
+      "meta_description": "Join the Toptal network and find Product Manager freelance jobs with top companies and start-ups from around the world.\nSet your own hours and work flexibly. Apply now.",
+      "desc_len": 168,
+      "h1": [
+        "Freelance Product Manager Jobs tailored to you"
+      ],
+      "h2_count": 2,
+      "h2": [
+        "Looking for product management jobs?",
+        "Trusted by Leading Brands and Startups"
+      ],
+      "word_count": 140,
+      "canonical": "https://www.toptal.com/freelance-jobs/product-managers/jobs",
+      "meta_robots": null,
+      "images": 21,
+      "images_missing_alt": 3,
+      "missing_alt_samples": [
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi"
+      ],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 48,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Meta description length 168 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "3 images without alt text"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 140 words"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toptal.com/freelance-jobs/management-consultants/jobs",
+      "status": 200,
+      "load_ms": 566,
+      "title": "Management Consultant Jobs for World-Class Freelancers | Toptal®",
+      "title_len": 64,
+      "meta_description": "Join the Toptal network and find freelance Management Consultant jobs with top companies and start-ups from around the world.\nSet your own hours and work flexibly. Apply now.",
+      "desc_len": 174,
+      "h1": [
+        "Freelance Management Consultant Jobs tailored to you"
+      ],
+      "h2_count": 1,
+      "h2": [
+        "Trusted by Leading Brands and Startups"
+      ],
+      "word_count": 124,
+      "canonical": "https://www.toptal.com/freelance-jobs/management-consultants/jobs",
+      "meta_robots": null,
+      "images": 21,
+      "images_missing_alt": 3,
+      "missing_alt_samples": [
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi",
+        "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfi"
+      ],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 56,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "medium",
+          "issue": "Title length 64 (aim 30-60)"
+        },
+        {
+          "severity": "low",
+          "issue": "Meta description length 174 (aim 70-160)"
+        },
+        {
+          "severity": "medium",
+          "issue": "3 images without alt text"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 124 words"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toptal.com/project-managers/jobs/all",
+      "status": 200,
+      "load_ms": 588,
+      "title": "All Toptal Freelance Project Manager Jobs",
+      "title_len": 41,
+      "meta_description": "All Toptal freelance project manager jobs -- apply to them today.",
+      "desc_len": 65,
+      "h1": [
+        "All Toptal Freelance Project Manager Jobs"
+      ],
+      "h2_count": 0,
+      "h2": [],
+      "word_count": 30,
+      "canonical": "https://www.toptal.com/project-managers/jobs/all",
+      "meta_robots": null,
+      "images": 0,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 63,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Meta description length 65 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 30 words"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toptal.com/product-managers/jobs/all",
+      "status": 200,
+      "load_ms": 585,
+      "title": "All Toptal Freelance Product Manager Jobs",
+      "title_len": 41,
+      "meta_description": "All Toptal freelance product manager jobs -- apply to them today.",
+      "desc_len": 65,
+      "h1": [
+        "All Toptal Freelance Product Manager Jobs"
+      ],
+      "h2_count": 0,
+      "h2": [],
+      "word_count": 23,
+      "canonical": "https://www.toptal.com/product-managers/jobs/all",
+      "meta_robots": null,
+      "images": 0,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 61,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Meta description length 65 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 23 words"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toptal.com/designers/jobs/all",
+      "status": 200,
+      "load_ms": 573,
+      "title": "All Toptal Freelance Designer Jobs",
+      "title_len": 34,
+      "meta_description": "All Toptal freelance designer jobs -- apply to them today.",
+      "desc_len": 58,
+      "h1": [
+        "All Toptal Freelance Designer Jobs"
+      ],
+      "h2_count": 0,
+      "h2": [],
+      "word_count": 86,
+      "canonical": "https://www.toptal.com/designers/jobs/all",
+      "meta_robots": null,
+      "images": 0,
+      "images_missing_alt": 0,
+      "missing_alt_samples": [],
+      "schema_types": [],
+      "og_title": true,
+      "internal_links": 51,
+      "external_links": 4,
+      "issues": [
+        {
+          "severity": "low",
+          "issue": "Meta description length 58 (aim 70-160)"
+        },
+        {
+          "severity": "low",
+          "issue": "Thin content: 86 words"
+        },
+        {
+          "severity": "medium",
+          "issue": "No JSON-LD structured data"
+        }
+      ]
+    }
+  ]
+}

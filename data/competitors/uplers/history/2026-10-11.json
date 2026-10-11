@@ -1,0 +1,41 @@
+{
+  "name": "Uplers",
+  "first_run": false,
+  "page_changes": [
+    {
+      "url": "https://www.uplers.com/",
+      "text_diff": [
+        "-Top 3 AI Vetted profiles -",
+        "+Top 3 AI Shortlisted profiles -",
+        "-Deep vetting - startup",
+        "+Startup",
+        "-Minimal - end-to-end",
+        "-screening handled",
+        "+Minimal - Interview",
+        "+shortlisted  Profile",
+        "-- vetted for ownership",
+        "+and ownership"
+      ],
+      "text_diff_truncated": false
+    }
+  ],
+  "errors": [],
+  "new_urls": [],
+  "removed_urls": [
+    "https://www.uplers.com/blog/30-one-line-reasons-to-hire-dedicated-development-team/",
+    "https://www.uplers.com/blog/5-best-practices-managing-offshore-teams/",
+    "https://www.uplers.com/blog/7-reasons-hire-offshore-teams/",
+    "https://www.uplers.com/blog/can-dedicated-offshore-team-deliver-great-results-in-paid-marketing/",
+    "https://www.uplers.com/blog/cross-cultural-training/",
+    "https://www.uplers.com/blog/faqs-dedicated-team-model/",
+    "https://www.uplers.com/blog/hire-web-developers-agencies-vs-freelancer/",
+    "https://www.uplers.com/blog/how-to-manage-time-zone-differences-with-offshore-dedicated-teams/",
+    "https://www.uplers.com/blog/how-to-set-distributed-team-digital-agency/",
+    "https://www.uplers.com/blog/myths-associated-with-hiring-a-dedicated-web-development-team/",
+    "https://www.uplers.com/blog/security-precautions-to-take-while-hiring-offshore-development-teams/",
+    "https://www.uplers.com/blog/transparent-pricing/",
+    "https://www.uplers.com/blog/ui-ux-design-company/",
+    "https://www.uplers.com/blog/why-hire-dedicated-team-from-premier-google-partner-agency/"
+  ],
+  "sitemap_size": 757
+}

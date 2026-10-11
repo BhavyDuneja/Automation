@@ -22,6 +22,7 @@ from urllib.parse import parse_qs, quote, urlparse
 import markdown
 
 from common import CONTENT, DATA, REPORTS, ROOT, dump_frontmatter, now_ist, parse_frontmatter, read_json
+from publish_blog import BLOG, configured as blog_publishing_configured, problems as blog_problems, publish_time
 from publish_queue import POSTED, QUEUE, scheduled_time
 
 TOKEN = secrets.token_urlsafe(16)
@@ -114,8 +115,25 @@ def posts():
     return items
 
 
-def needs_you(items):
+def blogs():
+    items = []
+    for path in sorted(BLOG.glob("*.md"), reverse=True):
+        meta, body = parse_frontmatter(path.read_text(encoding="utf-8"))
+        items.append({"name": path.name, "path": path, "meta": meta, "body": body, "when": publish_time(meta),
+                      "problems": blog_problems(meta, body) if meta.get("status") == "draft" else []})
+    return items
+
+
+def needs_you(items, articles=()):
     todo = []
+    for art in articles:
+        status = art["meta"].get("status")
+        if status == "draft":
+            todo.append(f"Read article {art['name']}" + (f" ({'; '.join(art['problems'])})" if art["problems"] else ": ready to approve"))
+        elif status == "failed":
+            todo.append(f"Article failed to publish: {art['name']}: {str(art['meta'].get('error', ''))[:140]}")
+    if any(a["meta"].get("status") == "approved" for a in articles) and not blog_publishing_configured():
+        todo.append("Approved articles are waiting: add SUPABASE_URL and SUPABASE_SERVICE_KEY to .env to publish them")
     for it in items:
         status, name = it["meta"].get("status"), it["name"]
         if status == "draft":
@@ -151,16 +169,16 @@ def newest_section(path):
 
 
 def report_files():
-    files = [p for folder in (REPORTS, ROOT / "email", CONTENT / "blog") if folder.exists() for p in folder.rglob("*.md")]
+    files = [p for folder in (REPORTS, ROOT / "email") if folder.exists() for p in folder.rglob("*.md")]
     files = [p for p in files if "daily" not in p.parts]
     return sorted(files, key=lambda p: p.stat().st_mtime, reverse=True)
 
 
-def set_status(path, status):
-    """Approve a queued post or move it back to draft; refuses when the approval checks fail."""
+def set_status(path, status, check=problems):
+    """Approve a post or article, or move it back to draft; refuses when the approval checks fail."""
     meta, body = parse_frontmatter(path.read_text(encoding="utf-8"))
     if status == "approved":
-        blockers = problems(meta, body)
+        blockers = check(meta, body)
         if blockers:
             return "Not approved: " + "; ".join(blockers)
         meta.update(status="approved", approved_at=now_ist().isoformat(timespec="minutes"), approved_via="dashboard")
@@ -227,7 +245,7 @@ def view_link(path, label=None):
 
 
 def overview(flash=""):
-    w, a, s, items = website(), aeo(), seo(), posts()
+    w, a, s, items, articles = website(), aeo(), seo(), posts(), blogs()
     statuses = Counter(it["meta"].get("status", "?") for it in items)
     cal_counts, upcoming = calendar()
     daily_report = latest(REPORTS / "daily", "*.md")
@@ -249,7 +267,7 @@ def overview(flash=""):
                  + "</div>")
     parts.append(f'<h2>Daily website sessions</h2><div class="card">{bars(w["daily"])}</div>')
 
-    todo = needs_you(items)
+    todo = needs_you(items, articles)
     parts.append("<h2>Needs you</h2>" + (
         '<div class="card"><ul>' + "".join(f"<li>{e(t)}</li>" for t in todo) + "</ul></div>" if todo
         else '<div class="card muted">Nothing right now.</div>'))
@@ -279,6 +297,14 @@ def overview(flash=""):
                  + '<div><h2>Campaign calendar</h2><p class="muted">' + e(", ".join(f"{k}: {v}" for k, v in cal_counts.items()))
                  + '</p><table><tr><th>Date</th><th>Where</th><th>Topic</th><th>Status</th></tr>'
                  + (upcoming_rows or '<tr><td colspan="4" class="muted">Nothing planned.</td></tr>') + "</table></div></div>")
+
+    article_rows = "".join(
+        f'<tr><td>{e(a_["when"].strftime("%a %d %b %H:%M")) if a_["when"] else "-"}</td>'
+        f'<td><span class="pill {e(str(a_["meta"].get("status", "")))}">{e(str(a_["meta"].get("status", "")))}</span></td>'
+        f'<td>{e(str(a_["meta"].get("title", a_["name"])))}</td><td><a href="/blog?f={quote(a_["name"])}">open</a></td></tr>'
+        for a_ in articles)
+    parts.append('<h2>Blog articles (publish time in IST)</h2><table><tr><th>Publish</th><th>Status</th><th>Title</th><th></th></tr>'
+                 + (article_rows or '<tr><td colspan="4" class="muted">No articles yet.</td></tr>') + "</table>")
 
     parts.append('<h2>Reports</h2><div class="card"><ul>' + "".join(
         f'<li>{view_link(p)} <span class="muted">{dt.datetime.fromtimestamp(p.stat().st_mtime):%d %b}</span></li>'
@@ -322,10 +348,39 @@ def post_page(name, flash=""):
     return page(path.name, "".join(body_html))
 
 
-def action_form(name, status, label, ghost=False):
-    return (f'<form method="post" action="/post"><input type="hidden" name="f" value="{e(name)}">'
+def action_form(name, status, label, ghost=False, kind="post"):
+    return (f'<form method="post" action="/{kind}"><input type="hidden" name="f" value="{e(name)}">'
             f'<input type="hidden" name="status" value="{status}"><input type="hidden" name="token" value="{TOKEN}">'
             f'<button{" class=ghost" if ghost else ""}>{e(label)}</button></form>')
+
+
+def blog_page(name, flash=""):
+    path = BLOG / Path(name).name
+    if not path.exists():
+        return None
+    meta, body = parse_frontmatter(path.read_text(encoding="utf-8"))
+    status, when = meta.get("status", ""), publish_time(meta)
+    blockers = blog_problems(meta, body) if status == "draft" else []
+    form = ""
+    if status == "draft" and not blockers:
+        form = action_form(path.name, "approved", "Approve: publish on the website at the publish time", kind="blog")
+    elif status == "approved":
+        form = action_form(path.name, "draft", "Move back to draft", ghost=True, kind="blog")
+    details = "".join(f"<tr><th>{e(k)}</th><td>{e(str(meta.get(k)))}</td></tr>" for k in
+                      ("slug", "meta_description", "category", "tags", "primary_keyword", "topic_reason", "sources", "url", "error")
+                      if meta.get(k))
+    parts = [
+        '<p><a href="/">&larr; Dashboard</a></p>',
+        f'<div class="flash">{e(flash)}</div>' if flash else "",
+        f'<h1>{e(str(meta.get("title", path.name)))}</h1><p><span class="pill {e(status)}">{e(status)}</span> '
+        f'<span class="muted">{e(when.strftime("%A %d %B %Y, %H:%M IST")) if when else "no publish time"}</span> · '
+        f'<a href="vscode://file/{quote(path.as_posix())}">edit in VS Code</a></p>',
+        f"<h2>Details</h2><table>{details}</table>" if details else "",
+        ('<h2>Before it can be approved</h2><div class="card"><ul>' + "".join(f"<li>{e(b)}</li>" for b in blockers) + "</ul></div>") if blockers else "",
+        f'<p style="margin-top:16px">{form}</p>',
+        f'<h2>Article</h2><div class="card">{md(body)}</div>',
+    ]
+    return page(str(meta.get("title", path.name)), "".join(parts))
 
 
 def view_page(rel):
@@ -372,6 +427,9 @@ class Handler(BaseHTTPRequestHandler):
         if url.path == "/post":
             html_page = post_page(query.get("f", ""), query.get("msg", ""))
             return self.send(200, html_page.encode()) if html_page else self.send(404, b"Not found")
+        if url.path == "/blog":
+            html_page = blog_page(query.get("f", ""), query.get("msg", ""))
+            return self.send(200, html_page.encode()) if html_page else self.send(404, b"Not found")
         if url.path == "/view":
             html_page = view_page(query.get("path", ""))
             return self.send(200, html_page.encode()) if html_page else self.send(404, b"Not found")
@@ -390,11 +448,12 @@ class Handler(BaseHTTPRequestHandler):
         origin = self.headers.get("Origin")
         if form.get("token") != TOKEN or (origin and origin not in (f"http://localhost:{self.port}", f"http://127.0.0.1:{self.port}")):
             return self.send(403, b"Forbidden: reload the dashboard and try again")
-        path = QUEUE / Path(form.get("f", "")).name
-        if self.path != "/post" or not path.exists() or form.get("status") not in ("approved", "draft"):
+        folder, check = {"/post": (QUEUE, problems), "/blog": (BLOG, blog_problems)}.get(self.path, (None, None))
+        path = folder / Path(form.get("f", "")).name if folder else None
+        if not path or not path.exists() or form.get("status") not in ("approved", "draft"):
             return self.send(400, b"Bad request")
-        message = set_status(path, form["status"])
-        self.send(303, location=f"/post?f={quote(path.name)}&msg={quote(message)}")
+        message = set_status(path, form["status"], check)
+        self.send(303, location=f"{self.path}?f={quote(path.name)}&msg={quote(message)}")
 
     def log_message(self, *args):  # quiet: runs without a console under pythonw
         pass

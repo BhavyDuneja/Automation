@@ -1,25 +1,30 @@
 ---
-title: "Dedicated expert vs freelancer vs agency: which should you hire?"
-seo_title: "Dedicated expert vs freelancer vs agency: which to hire?"
-meta_description: "Dedicated expert vs freelancer vs agency: a plain comparison of cost, continuity and control, and when each one is the right call for your team."
+title: 'Dedicated expert vs freelancer vs agency: which should you hire?'
+seo_title: 'Dedicated expert vs freelancer vs agency: which to hire?'
+meta_description: 'Dedicated expert vs freelancer vs agency: a plain comparison of cost, continuity and control, and when each one is the right call for your team.'
 slug: dedicated-expert-vs-freelancer-vs-agency
 url: /blog/dedicated-expert-vs-freelancer-vs-agency
 primary_keyword: dedicated expert vs freelancer vs agency
 secondary_keywords:
-  - dedicated team vs staff augmentation vs freelancer vs agency
-  - hire a dedicated expert
-  - freelancer or agency for a startup
-  - how to hire a remote specialist
+- dedicated team vs staff augmentation vs freelancer vs agency
+- hire a dedicated expert
+- freelancer or agency for a startup
+- how to hire a remote specialist
 status: draft
 campaign: 2026-10-dedicated-experts
-pillar: "Education · Dedicated expert, not a project"
-audience: "Primary: founders and owners of startups and SMBs"
-author: "Bhavya Duneja, founder"
-publish_target: "2026-10-16 (Fri), after calendar tasks W1-5 and W1-8 ship"
-review: "OK to edit, not yet to publish. High 0, Medium 2: 9 [ADD:] placeholders (fee x3, total, guarantee window x2, employment model x2, Awish measure and consent) must be filled or their rows cut, and Awish is a financial result, so get written consent. No competitor named, no market statistic, the ₹1.5 lakh example is labelled an illustration."
+pillar: Education · Dedicated expert, not a project
+audience: 'Primary: founders and owners of startups and SMBs'
+author: Bhavya Duneja, founder
+publish_target: 2026-10-16 (Fri), after calendar tasks W1-5 and W1-8 ship
+review: 'OK to edit, not yet to publish. High 0, Medium 2: 9 [ADD:] placeholders (fee x3, total, guarantee window x2, employment model x2, Awish measure and consent) must be filled or their rows cut, and Awish is a financial result, so get written consent. No competitor named, no market statistic, the ₹1.5 lakh example is labelled an illustration.'
+publish_at: 2026-10-16 08:00
+category: Hiring
+tags:
+- hiring
+- dedicated expert
+- freelancer
+- agency
 ---
-# Dedicated expert vs freelancer vs agency: which should you hire?
-
 You need a specialist: a growth marketer, an AI engineer, a case manager. You can hire a freelancer, brief an agency, or add a dedicated expert to your team. All three work. Each one fails when it is used for the wrong job.
 
 This guide compares the three on what matters: how long the work lasts, who manages it, what you are really paying for and what happens if it is not working. It also says when a dedicated expert, the model we run at AnantaSutra, is the wrong choice.

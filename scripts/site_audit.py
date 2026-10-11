@@ -192,6 +192,9 @@ def main():
 
     queue = sitemap_urls(s, sm_list[0]) if sm_list else sitemap_urls(s, base + "/sitemap.xml")
     report["site_checks"]["sitemap_url_count"] = len(queue)
+    # Full URL list: lets article drafting avoid duplicate topics and pick internal links.
+    (DATA / "seo").mkdir(parents=True, exist_ok=True)
+    (DATA / "seo" / f"sitemap-{host.replace('www.', '')}.txt").write_text("\n".join(queue) + "\n", encoding="utf-8")
     if not queue:
         queue = [base + "/"]
     seen, all_internal = set(), set()

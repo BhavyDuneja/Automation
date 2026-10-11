@@ -2,18 +2,19 @@
 platform: linkedin
 status: draft
 scheduled_at: 2026-10-13 09:30
-pillar: "POV · Radical transparency"
-audience: "Primary: founders and owners of startups and SMBs"
+pillar: POV · Radical transparency
+audience: 'Primary: founders and owners of startups and SMBs'
 campaign: 2026-10-dedicated-experts
 format: text
-image: ""
-image_url: ""
-alt_text: ""
+image: ''
+image_url: ''
+alt_text: ''
 visual_brief: |
   Text only. No image needed.
-first_comment: ""
-notes: "No link on purpose: the flagship H2 'You Pay Just the Salary' conflicts with 'salary plus fee' until the Wed 14 Oct fix (W1-5)."
-review: "OK. High 0, Medium 1: the flagship still says 'You Pay Just the Salary' until W1-5 (Wed 14 Oct), so no link is added; confirm 'no recruitment fee' holds under the final fee (D1). The ₹1.5 lakh example is brand.md's own, labelled an illustration. No names, no unverified numbers."
+first_comment: ''
+notes: 'No link on purpose: the flagship H2 ''You Pay Just the Salary'' conflicts with ''salary plus fee'' until the Wed 14 Oct fix (W1-5).'
+review: 'OK. High 0, Medium 1: the flagship still says ''You Pay Just the Salary'' until W1-5 (Wed 14 Oct), so no link is added; confirm ''no recruitment fee'' holds under the final fee (D1). The ₹1.5 lakh example is brand.md''s own, labelled an illustration. No names, no unverified numbers.'
+pair: 2026-10-13-instagram-one-line-invoice.md
 ---
 Can you see what your expert is actually paid?
 

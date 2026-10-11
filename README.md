@@ -44,6 +44,24 @@ runs it too. The design uses the logo and fonts in `content/brand/`.
 - To re-render after editing slides, run `python scripts/make_visuals.py --file <name>.md --force`.
 - One-time setup on a new PC: `python -m playwright install --only-shell chromium`.
 
+## Daily articles
+The daily routine drafts one trend-driven, answer-first article a day (Mon-Sat) into `content/blog/`. Read it in the
+dashboard and click **Approve**: it appears on anantasutra.com/blog at its `publish_at` time.
+One-time setup: in Supabase (the project behind the website), open Project settings → API and copy the Project URL
+and the `service_role` key into `.env`:
+```
+SUPABASE_URL=https://<project>.supabase.co
+SUPABASE_SERVICE_KEY=<service_role key>
+```
+Check it with `python scripts/publish_blog.py --check`. The key stays on this PC and is never committed.
+
+## Posting rhythm
+One idea a day, posted twice:
+- **Mon-Fri:** a LinkedIn post at 09:30 IST and an Instagram carousel of the same idea at 19:30 IST.
+- **Saturday:** Instagram only.
+
+Change the days and times in `context/channels.md`.
+
 ## Privacy
 - Skills and assistant settings live only on this PC and are kept out of git. Nothing is installed on the shared account.
 - Local assistant sessions are stored on this PC, not in the shared account's chat history.

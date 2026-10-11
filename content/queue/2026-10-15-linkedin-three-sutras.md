@@ -2,18 +2,19 @@
 platform: linkedin
 status: draft
 scheduled_at: 2026-10-15 09:30
-pillar: "Culture · Infinite wisdom, applied"
-audience: "Primary: founders and owners of startups and SMBs"
+pillar: Culture · Infinite wisdom, applied
+audience: 'Primary: founders and owners of startups and SMBs'
 campaign: 2026-10-dedicated-experts
 format: text
-image: ""
-image_url: ""
-alt_text: ""
+image: ''
+image_url: ''
+alt_text: ''
 visual_brief: |
   Text only. No image needed.
-first_comment: "About me and AnantaSutra: https://anantasutra.com/co-founder?utm_source=linkedin&utm_medium=social&utm_campaign=three-sutras"
-notes: "Check that the Devanagari text renders in the LinkedIn preview. Paste the first comment by hand within 5 minutes of posting."
-review: "OK. High 0, Medium 0, Low 1: the thread idea is used once, as the subject of the post; check that the Devanagari renders in the LinkedIn preview. Facts used (all brand.md): name meaning, Delhi and Osaka, 4 continents, 2-3 experts, no lock-in."
+first_comment: 'About me and AnantaSutra: https://anantasutra.com/co-founder?utm_source=linkedin&utm_medium=social&utm_campaign=three-sutras'
+notes: Check that the Devanagari text renders in the LinkedIn preview. Paste the first comment by hand within 5 minutes of posting.
+review: 'OK. High 0, Medium 0, Low 1: the thread idea is used once, as the subject of the post; check that the Devanagari renders in the LinkedIn preview. Facts used (all brand.md): name meaning, Delhi and Osaka, 4 continents, 2-3 experts, no lock-in.'
+pair: 2026-10-15-instagram-three-sutras.md
 ---
 "Sutra" means thread. It also means a rule short enough to remember.
 

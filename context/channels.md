@@ -8,17 +8,20 @@ linkedin:
   post_as: personal profile of the founder (Bhavy D., urn:li:person:GymYBFJHOD)
   company_page: anantasutra-digital    # posting as the page needs Community Management API approval
   token_renew_by: 2026-12-01           # tokens last ~60 days; this one assumed created 2026-10-09
-  posts_per_week: 4
-  days: [Tue, Wed, Thu, Sat]
+  posts_per_week: 5
+  days: [Mon, Tue, Wed, Thu, Fri]
   time_slots: ["09:30"]                # one post per listed day; performance-report may suggest testing 12:30
 instagram:
   enabled: true                        # connected 2026-10-09 (Business account; tested up to an unpublished container)
   handle: anantasutra
-  posts_per_week: 4
-  days: [Mon, Wed, Fri, Sun]
+  posts_per_week: 6
+  days: [Mon, Tue, Wed, Thu, Fri, Sat]
   time_slots: ["19:30"]                # one post per listed day, IST
+pairing: true              # one idea per day: LinkedIn post at 09:30 + an Instagram carousel of the same idea at 19:30
+                           # (Saturday is Instagram only). Both halves are written natively, never copy-pasted.
 draft_horizon_days: 3      # daily-run keeps this many days of drafts ready in content/queue
-max_drafts_per_daily_run: 2
+max_drafts_per_daily_run: 2  # = one pair per run
+daily_blog: true           # one trend-driven, answer-first article a day (Mon-Sat) into content/blog/ as a draft
 ```
 
 ## Content mix (per 2 weeks)

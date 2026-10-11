@@ -2,18 +2,19 @@
 platform: linkedin
 status: draft
 scheduled_at: 2026-10-14 09:30
-pillar: "Education · Dedicated expert, not a project"
-audience: "Primary: founders and owners of startups and SMBs"
+pillar: Education · Dedicated expert, not a project
+audience: 'Primary: founders and owners of startups and SMBs'
 campaign: 2026-10-dedicated-experts
 format: text
-image: ""
-image_url: ""
-alt_text: ""
+image: ''
+image_url: ''
+alt_text: ''
 visual_brief: |
   Text only. No image needed.
-first_comment: ""
-notes: "Opinion post: the five checks are general hiring advice, not company claims. Founder to confirm they match their own practice."
-review: "OK. High 0, Medium 0, Low 1: opinion post with hedged generalisations; the only company claim is the 2-3 hand-picked experts line, in brand.md wording. No names, no numbers beyond '30 days' and '2-3'."
+first_comment: ''
+notes: 'Opinion post: the five checks are general hiring advice, not company claims. Founder to confirm they match their own practice.'
+review: 'OK. High 0, Medium 0, Low 1: opinion post with hedged generalisations; the only company claim is the 2-3 hand-picked experts line, in brand.md wording. No names, no numbers beyond ''30 days'' and ''2-3''.'
+pair: 2026-10-14-instagram-interview-a-specialist.md
 ---
 How do you interview a specialist when you are not one?
 
